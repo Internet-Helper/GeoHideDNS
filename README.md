@@ -1,1 +1,1 @@
-# SmartDNS
+# SmartDNS Center
