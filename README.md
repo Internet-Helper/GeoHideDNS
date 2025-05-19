@@ -1,4 +1,4 @@
-Нравится проект? Поддержи аренду сервера через [CloudTips](https://pay.cloudtips.ru/p/ddeac224) или [Юмани](https://yoomoney.ru/to/41001945296522) на чашечку кофе ☕ 
+Нравится проект? Поддержи аренду сервера через [CloudTips](https://pay.cloudtips.ru/p/ddeac224) или [Юмани](https://yoomoney.ru/to/41001945296522) или скинь на чашечку кофе ☕ 
 
 ***
 
