@@ -33,10 +33,6 @@
 95.182.120.241 www.amd.com
 185.87.51.182 www.amd.com
 
-# Archive.org
-95.182.120.241 web.archive.org
-185.87.51.182 web.archive.org
-
 # Autodesk
 95.182.120.241 accounts.autodesk.com
 185.87.51.182 accounts.autodesk.com
@@ -641,11 +637,17 @@
 95.182.120.241 www.guidedhacking.com
 185.87.51.182 www.guidedhacking.com
 
+# Imgur
+95.182.120.241 api.imgur.com
+185.87.51.182 api.imgur.com
+
 # Intel
 95.182.120.241 intel.com
 185.87.51.182 intel.com
 95.182.120.241 www.intel.com
 185.87.51.182 www.intel.com
+95.182.120.241 geolocation.onetrust.com
+185.87.51.182 geolocation.onetrust.com
 
 # JetBrains
 95.182.120.241 academy.jetbrains.com
@@ -666,10 +668,16 @@
 185.87.51.182 autoconfig.api.jetbrains.com
 95.182.120.241 autodiscover.api.jetbrains.com
 185.87.51.182 autodiscover.api.jetbrains.com
+95.182.120.241 awsproxy.pkg-cdn.jetbrains.space
+185.87.51.182 awsproxy.pkg-cdn.jetbrains.space
 95.182.120.241 blog.jetbrains.com
 185.87.51.182 blog.jetbrains.com
 95.182.120.241 blogs.jetbrains.com
 185.87.51.182 blogs.jetbrains.com
+95.182.120.241 byid.eu-1.jetbrains.space
+185.87.51.182 byid.eu-1.jetbrains.space
+95.182.120.241 byid.jetbrains.space
+185.87.51.182 byid.jetbrains.space
 95.182.120.241 ca.jetbrains.com
 185.87.51.182 ca.jetbrains.com
 95.182.120.241 cai.jetbrains.com
@@ -678,6 +686,8 @@
 185.87.51.182 cdn.jetbrains.com
 95.182.120.241 cloudconfig.jetbrains.com
 185.87.51.182 cloudconfig.jetbrains.com
+95.182.120.241 cloudfront.pkg-cdn.jetbrains.space
+185.87.51.182 cloudfront.pkg-cdn.jetbrains.space
 95.182.120.241 code-with-me.jetbrains.com
 185.87.51.182 code-with-me.jetbrains.com
 95.182.120.241 code2art.jetbrains.com
@@ -698,12 +708,16 @@
 185.87.51.182 configr.jetbrains.com
 95.182.120.241 confluence.jetbrains.com
 185.87.51.182 confluence.jetbrains.com
+95.182.120.241 corona.jetbrains.space
+185.87.51.182 corona.jetbrains.space
 95.182.120.241 data.services.jetbrains.com
 185.87.51.182 data.services.jetbrains.com
 95.182.120.241 datalore-forum.jetbrains.com
 185.87.51.182 datalore-forum.jetbrains.com
 95.182.120.241 datalore.jetbrains.com
 185.87.51.182 datalore.jetbrains.com
+95.182.120.241 dc.jetbrains.space
+185.87.51.182 dc.jetbrains.space
 95.182.120.241 dotcover-support.jetbrains.com
 185.87.51.182 dotcover-support.jetbrains.com
 95.182.120.241 dotmemory-support.jetbrains.com
@@ -724,8 +738,12 @@
 185.87.51.182 ea.jetbrains.com
 95.182.120.241 eap.jetbrains.com
 185.87.51.182 eap.jetbrains.com
+95.182.120.241 element.jetbrains.space
+185.87.51.182 element.jetbrains.space
 95.182.120.241 employee-guides.jetbrains.com
 185.87.51.182 employee-guides.jetbrains.com
+95.182.120.241 eu-1.jetbrains.space
+185.87.51.182 eu-1.jetbrains.space
 95.182.120.241 fleet-relay.api.jetbrains.com
 185.87.51.182 fleet-relay.api.jetbrains.com
 95.182.120.241 geo2.datalore.jetbrains.com
@@ -760,8 +778,12 @@
 185.87.51.182 jetarchive.jetbrains.com
 95.182.120.241 jetbrains.com
 185.87.51.182 jetbrains.com
+95.182.120.241 jetbrains.space
+185.87.51.182 jetbrains.space
 95.182.120.241 jetpeople.jetbrains.com
 185.87.51.182 jetpeople.jetbrains.com
+95.182.120.241 justtoplay.jetbrains.space
+185.87.51.182 justtoplay.jetbrains.space
 95.182.120.241 local.api.jetbrains.com
 185.87.51.182 local.api.jetbrains.com
 95.182.120.241 lp.jetbrains.com
@@ -772,12 +794,20 @@
 185.87.51.182 mail.jetbrains.com
 95.182.120.241 marketplace.jetbrains.com
 185.87.51.182 marketplace.jetbrains.com
+95.182.120.241 maven.jetbrains.space
+185.87.51.182 maven.jetbrains.space
+95.182.120.241 maven.pkg.jetbrains.space
+185.87.51.182 maven.pkg.jetbrains.space
 95.182.120.241 merchandise.jetbrains.com
 185.87.51.182 merchandise.jetbrains.com
 95.182.120.241 mkto-mailer.jetbrains.com
 185.87.51.182 mkto-mailer.jetbrains.com
 95.182.120.241 mta-sts.jetbrains.com
 185.87.51.182 mta-sts.jetbrains.com
+95.182.120.241 myjetbrains.com
+185.87.51.182 myjetbrains.com
+95.182.120.241 ngenix.assets.service.jetbrains.space
+185.87.51.182 ngenix.assets.service.jetbrains.space
 95.182.120.241 oauth.account.jetbrains.com
 185.87.51.182 oauth.account.jetbrains.com
 95.182.120.241 oauth.fls.jetbrains.com
@@ -790,14 +820,24 @@
 185.87.51.182 package-search.jetbrains.com
 95.182.120.241 package-search.services.jetbrains.com
 185.87.51.182 package-search.services.jetbrains.com
+95.182.120.241 pkg-cdn.jetbrains.space
+185.87.51.182 pkg-cdn.jetbrains.space
+95.182.120.241 pkg.eu-1.jetbrains.space
+185.87.51.182 pkg.eu-1.jetbrains.space
 95.182.120.241 plugins.jetbrains.com
 185.87.51.182 plugins.jetbrains.com
+95.182.120.241 registry.eu-1.jetbrains.space
+185.87.51.182 registry.eu-1.jetbrains.space
+95.182.120.241 registry.jetbrains.space
+185.87.51.182 registry.jetbrains.space
 95.182.120.241 renew-your-ssl-certificate.jetbrains.com
 185.87.51.182 renew-your-ssl-certificate.jetbrains.com
 95.182.120.241 resharper-plugins.jetbrains.com
 185.87.51.182 resharper-plugins.jetbrains.com
 95.182.120.241 resources.jetbrains.com
 185.87.51.182 resources.jetbrains.com
+95.182.120.241 ruhlaender.jetbrains.space
+185.87.51.182 ruhlaender.jetbrains.space
 95.182.120.241 sales.jetbrains.com
 185.87.51.182 sales.jetbrains.com
 95.182.120.241 skyscanner.fls.jetbrains.com
@@ -808,6 +848,8 @@
 185.87.51.182 slack-mps.jetbrains.com
 95.182.120.241 slack.jetbrains.com
 185.87.51.182 slack.jetbrains.com
+95.182.120.241 space-cdn.jetbrains.space
+185.87.51.182 space-cdn.jetbrains.space
 95.182.120.241 spotify.fls.jetbrains.com
 185.87.51.182 spotify.fls.jetbrains.com
 95.182.120.241 stackexchange.master-zdchint.mau.jetbrains.com
@@ -820,6 +862,8 @@
 185.87.51.182 support.jetbrains.com
 95.182.120.241 sv.fls.jetbrains.com
 185.87.51.182 sv.fls.jetbrains.com
+95.182.120.241 swu-acm.jetbrains.space
+185.87.51.182 swu-acm.jetbrains.space
 95.182.120.241 teamcity-support.jetbrains.com
 185.87.51.182 teamcity-support.jetbrains.com
 95.182.120.241 teamcity.jetbrains.com
@@ -836,8 +880,12 @@
 185.87.51.182 upsource.jetbrains.com
 95.182.120.241 view.datalore.jetbrains.com
 185.87.51.182 view.datalore.jetbrains.com
+95.182.120.241 walx.jetbrains.space
+185.87.51.182 walx.jetbrains.space
 95.182.120.241 www.jetbrains.com
 185.87.51.182 www.jetbrains.com
+95.182.120.241 www.jetbrains.space
+185.87.51.182 www.jetbrains.space
 95.182.120.241 youtrack.jetbrains.com
 185.87.51.182 youtrack.jetbrains.com
 95.182.120.241 youtube.master-zdchint.mau.jetbrains.com
@@ -863,11 +911,23 @@
 95.182.120.241 uploads.linear.app
 185.87.51.182 uploads.linear.app
 
+# Make
+95.182.120.241 make.com
+185.87.51.182 make.com
+95.182.120.241 www.make.com
+185.87.51.182 www.make.com
+
 # Manus
 95.182.120.241 api.manus.im
 185.87.51.182 api.manus.im
 95.182.120.241 manus.im
 185.87.51.182 manus.im
+
+# Meta AI
+95.182.120.241 meta.ai
+185.87.51.182 meta.ai
+95.182.120.241 www.meta.ai
+185.87.51.182 www.meta.ai
 
 # Microsoft (Copilot, Designer, Xbox)
 95.182.120.241 copilot.microsoft.com
@@ -1284,16 +1344,40 @@
 185.87.51.182 yahoo.naukri.com
 
 # Notion
+95.182.120.241 calendar.notion.com
+185.87.51.182 calendar.notion.com
 95.182.120.241 calendar.notion.so
 185.87.51.182 calendar.notion.so
+95.182.120.241 notion.com
+185.87.51.182 notion.com
 95.182.120.241 notion.so
 185.87.51.182 notion.so
 95.182.120.241 www.notion.so
 185.87.51.182 www.notion.so
+95.182.120.241 www.notion.com
+185.87.51.182 www.notion.com
 
 # Nvidia
 95.182.120.241 developer.nvidia.com
 185.87.51.182 developer.nvidia.com
+
+# Oracle
+95.182.120.241 oracle.com
+185.87.51.182 oracle.com
+95.182.120.241 www.oracle.com
+185.87.51.182 www.oracle.com
+
+# Patreon
+95.182.120.241 patreon.com
+185.87.51.182 patreon.com
+95.182.120.241 c5.patreon.com
+185.87.51.182 c5.patreon.com
+95.182.120.241 c13.patreon.com
+185.87.51.182 c13.patreon.com
+95.182.120.241 www.patreon.com
+185.87.51.182 www.patreon.com
+95.182.120.241 c10.patreonusercontent.com
+185.87.51.182 c10.patreonusercontent.com
 
 # Pump.fun
 95.182.120.241 pump.fun
@@ -1305,11 +1389,27 @@
 95.182.120.241 swap-api.pump.fun
 185.87.51.182 swap-api.pump.fun
 
+# Reve
+95.182.120.241 app.reve.com
+185.87.51.182 app.reve.com
+95.182.120.241 preview.reve.art
+185.87.51.182 preview.reve.art
+
 # Qwant
 95.182.120.241 qwant.com
 185.87.51.182 qwant.com
 95.182.120.241 www.qwant.com
 185.87.51.182 www.qwant.com
+
+# SketchUp
+95.182.120.241 sketchup.com
+185.87.51.182 sketchup.com
+95.182.120.241 www.sketchup.com
+185.87.51.182 www.sketchup.com
+95.182.120.241 id.trimble.com
+185.87.51.182 id.trimble.com
+95.182.120.241 sketchup.trimble.com
+185.87.51.182 sketchup.trimble.com
 
 # Spotify
 95.182.120.241 accounts.scdn.co
@@ -1456,9 +1556,21 @@
 144.31.14.104 security.id.supercell.com
 144.31.14.104 store.supercell.com
 
+# Tableau
+95.182.120.241 tableau.com
+185.87.51.182 tableau.com
+95.182.120.241 www.tableau.com
+185.87.51.182 www.tableau.com
+
 # Tailscale
 95.182.120.241 controlplane.tailscale.com
 185.87.51.182 controlplane.tailscale.com
+
+# TeamViewer
+95.182.120.241 download.teamviewer.com
+185.87.51.182 download.teamviewer.com
+95.182.120.241 dl.teamviewer.com
+185.87.51.182 dl.teamviewer.com
 
 # Trae.ai
 95.182.120.241 api-sg-central.trae.ai
@@ -1550,6 +1662,10 @@
 95.182.120.241 weather.com
 185.87.51.182 weather.com
 
+# Web Archive
+95.182.120.241 web.archive.org
+185.87.51.182 web.archive.org
+
 # Windsurf
 95.182.120.241 codeium.com
 185.87.51.182 codeium.com
@@ -1572,21 +1688,27 @@
 95.182.120.241 windsurf.com
 185.87.51.182 windsurf.com
 
+# WorkOS
+95.182.120.241 api.workos.com
+185.87.51.182 api.workos.com
+
+# Xerox
+95.182.120.241 xerox.com
+185.87.51.182 xerox.com
+95.182.120.241 www.xerox.com
+185.87.51.182 www.xerox.com
+
 # Остальное
 95.182.120.241 api-global.squareup.com
 185.87.51.182 api-global.squareup.com
 95.182.120.241 api.cdnlibs.org
 185.87.51.182 api.cdnlibs.org
-95.182.120.241 api.imgur.com
-185.87.51.182 api.imgur.com
 95.182.120.241 api.squareup.com
 185.87.51.182 api.squareup.com
 95.182.120.241 builds.parsec.app
 185.87.51.182 builds.parsec.app
 95.182.120.241 eu.posthog.com
 185.87.51.182 eu.posthog.com
-95.182.120.241 geolocation.onetrust.com
-185.87.51.182 geolocation.onetrust.com
 
 # Блокировка рекламы и трекеров на основе следующих списков:
 # https://adguardteam.github.io/HostlistsRegistry/assets/filter_67.txt
