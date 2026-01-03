@@ -1,5 +1,6 @@
 ### dns.geohide.ru: hosts file
-# Домены взяты из двух источников:
+# Домены взяты из трех источников:
+# https://dns.geohide.ru:8443
 # https://info.dns.malw.link/hosts
 # https://iplist.opencck.org/ru
 # В hosts указанно меньше сайтов чем проксируется через DNS.
