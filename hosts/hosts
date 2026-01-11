@@ -1,15 +1,18 @@
 ### dns.geohide.ru: hosts file
-# Домены взяты из трех источников:
+# Последнее обновление: 11 января 2026
+# Домены взяты из этих источников:
 # https://dns.geohide.ru:8443
 # https://info.dns.malw.link/hosts
 # https://iplist.opencck.org/ru
-# В hosts указанно меньше сайтов чем проксируется через DNS.
-# В качестве прокси используются серверы GeoHide DNS:
+# https://freedom.mafioznik.xyz/file/hosts
+# Серверы ниже принадлежат GeoHide DNS:
 # 45.155.204.190
 # 95.182.120.241
-# Последнее обновление: 10 января 2026
+# В итоговом hosts указанно меньше сайтов чем проксируется через DNS.
 
 # Работающие IP без прокси
+127.0.0.1 localhost
+::1 ip6-localhost
 130.255.77.28 ntc.party
 157.240.245.174 instagram.com
 157.240.245.174 www.instagram.com
@@ -55,6 +58,12 @@
 95.182.120.241 www.badoo.com
 
 # Broadcom
+45.155.204.190 access.broadcom.com
+95.182.120.241 access.broadcom.com
+45.155.204.190 knowledge.broadcom.com
+95.182.120.241 knowledge.broadcom.com
+45.155.204.190 support.broadcom.com
+95.182.120.241 support.broadcom.com
 45.155.204.190 profile.broadcom.com
 95.182.120.241 profile.broadcom.com
 
@@ -387,8 +396,16 @@
 95.182.120.241 zen.deezer.com
 
 # Dell
+45.155.204.190 afcs.dellcdn.com
+95.182.120.241 afcs.dellcdn.com
+45.155.204.190 dds.dell.com
+95.182.120.241 dds.dell.com
 45.155.204.190 dell.com
 95.182.120.241 dell.com
+45.155.204.190 i.dell.com
+95.182.120.241 i.dell.com
+45.155.204.190 nexus.dell.com
+95.182.120.241 nexus.dell.com
 45.155.204.190 www.dell.com
 95.182.120.241 www.dell.com
 
@@ -549,6 +566,8 @@
 95.182.120.241 notebooklm.google
 45.155.204.190 notebooklm.google.com
 95.182.120.241 notebooklm.google.com
+45.155.204.190 notebooklm-pa.googleapis.com
+95.182.120.241 notebooklm-pa.googleapis.com
 45.155.204.190 o.pki.goog
 95.182.120.241 o.pki.goog
 45.155.204.190 opal.google
@@ -637,6 +656,12 @@
 95.182.120.241 guidedhacking.com
 45.155.204.190 www.guidedhacking.com
 95.182.120.241 www.guidedhacking.com
+
+# Guilded
+45.155.204.190 guilded.gg
+95.182.120.241 guilded.gg
+45.155.204.190 www.guilded.gg
+95.182.120.241 www.guilded.gg
 
 # Imgur
 45.155.204.190 api.imgur.com
@@ -1380,6 +1405,10 @@
 45.155.204.190 c10.patreonusercontent.com
 95.182.120.241 c10.patreonusercontent.com
 
+# Posthog
+45.155.204.190 eu.posthog.com
+95.182.120.241 eu.posthog.com
+
 # Pump.fun
 45.155.204.190 pump.fun
 95.182.120.241 pump.fun
@@ -1493,6 +1522,8 @@
 95.182.120.241 cdn-1.strava.com
 45.155.204.190 communityhub.strava.com
 95.182.120.241 communityhub.strava.com
+45.155.204.190 content-a.strava.com
+95.182.120.241 content-a.strava.com
 45.155.204.190 dam.strava.com
 95.182.120.241 dam.strava.com
 45.155.204.190 dev.strava.com
@@ -1529,6 +1560,8 @@
 95.182.120.241 strava.com
 45.155.204.190 support.strava.com
 95.182.120.241 support.strava.com
+45.155.204.190 tiles.strava.com
+95.182.120.241 tiles.strava.com
 45.155.204.190 watch.samsung.strava.com
 95.182.120.241 watch.samsung.strava.com
 45.155.204.190 www.blog.strava.com
@@ -1663,6 +1696,16 @@
 45.155.204.190 weather.com
 95.182.120.241 weather.com
 
+# Weather Underground
+45.155.204.190 wunderground.com
+95.182.120.241 wunderground.com
+45.155.204.190 wund.com
+95.182.120.241 wund.com
+45.155.204.190 w-x.co
+95.182.120.241 w-x.co
+45.155.204.190 wxug.com
+95.182.120.241 wxug.com
+
 # Web Archive
 45.155.204.190 web.archive.org
 95.182.120.241 web.archive.org
@@ -1708,8 +1751,209 @@
 95.182.120.241 api.squareup.com
 45.155.204.190 builds.parsec.app
 95.182.120.241 builds.parsec.app
-45.155.204.190 eu.posthog.com
-95.182.120.241 eu.posthog.com
+
+# Решение от Flowseal для стабильной работы голосовых серверов в Discord:
+# https://raw.githubusercontent.com/Flowseal/zapret-discord-youtube/refs/heads/main/.service/hosts
+104.25.158.178 finland10000.discord.media
+104.25.158.178 finland10001.discord.media
+104.25.158.178 finland10002.discord.media
+104.25.158.178 finland10003.discord.media
+104.25.158.178 finland10004.discord.media
+104.25.158.178 finland10005.discord.media
+104.25.158.178 finland10006.discord.media
+104.25.158.178 finland10007.discord.media
+104.25.158.178 finland10008.discord.media
+104.25.158.178 finland10009.discord.media
+104.25.158.178 finland10010.discord.media
+104.25.158.178 finland10011.discord.media
+104.25.158.178 finland10012.discord.media
+104.25.158.178 finland10013.discord.media
+104.25.158.178 finland10014.discord.media
+104.25.158.178 finland10015.discord.media
+104.25.158.178 finland10016.discord.media
+104.25.158.178 finland10017.discord.media
+104.25.158.178 finland10018.discord.media
+104.25.158.178 finland10019.discord.media
+104.25.158.178 finland10020.discord.media
+104.25.158.178 finland10021.discord.media
+104.25.158.178 finland10022.discord.media
+104.25.158.178 finland10023.discord.media
+104.25.158.178 finland10024.discord.media
+104.25.158.178 finland10025.discord.media
+104.25.158.178 finland10026.discord.media
+104.25.158.178 finland10027.discord.media
+104.25.158.178 finland10028.discord.media
+104.25.158.178 finland10029.discord.media
+104.25.158.178 finland10030.discord.media
+104.25.158.178 finland10031.discord.media
+104.25.158.178 finland10032.discord.media
+104.25.158.178 finland10033.discord.media
+104.25.158.178 finland10034.discord.media
+104.25.158.178 finland10035.discord.media
+104.25.158.178 finland10036.discord.media
+104.25.158.178 finland10037.discord.media
+104.25.158.178 finland10038.discord.media
+104.25.158.178 finland10039.discord.media
+104.25.158.178 finland10040.discord.media
+104.25.158.178 finland10041.discord.media
+104.25.158.178 finland10042.discord.media
+104.25.158.178 finland10043.discord.media
+104.25.158.178 finland10044.discord.media
+104.25.158.178 finland10045.discord.media
+104.25.158.178 finland10046.discord.media
+104.25.158.178 finland10047.discord.media
+104.25.158.178 finland10048.discord.media
+104.25.158.178 finland10049.discord.media
+104.25.158.178 finland10050.discord.media
+104.25.158.178 finland10051.discord.media
+104.25.158.178 finland10052.discord.media
+104.25.158.178 finland10053.discord.media
+104.25.158.178 finland10054.discord.media
+104.25.158.178 finland10055.discord.media
+104.25.158.178 finland10056.discord.media
+104.25.158.178 finland10057.discord.media
+104.25.158.178 finland10058.discord.media
+104.25.158.178 finland10059.discord.media
+104.25.158.178 finland10060.discord.media
+104.25.158.178 finland10061.discord.media
+104.25.158.178 finland10062.discord.media
+104.25.158.178 finland10063.discord.media
+104.25.158.178 finland10064.discord.media
+104.25.158.178 finland10065.discord.media
+104.25.158.178 finland10066.discord.media
+104.25.158.178 finland10067.discord.media
+104.25.158.178 finland10068.discord.media
+104.25.158.178 finland10069.discord.media
+104.25.158.178 finland10070.discord.media
+104.25.158.178 finland10071.discord.media
+104.25.158.178 finland10072.discord.media
+104.25.158.178 finland10073.discord.media
+104.25.158.178 finland10074.discord.media
+104.25.158.178 finland10075.discord.media
+104.25.158.178 finland10076.discord.media
+104.25.158.178 finland10077.discord.media
+104.25.158.178 finland10078.discord.media
+104.25.158.178 finland10079.discord.media
+104.25.158.178 finland10080.discord.media
+104.25.158.178 finland10081.discord.media
+104.25.158.178 finland10082.discord.media
+104.25.158.178 finland10083.discord.media
+104.25.158.178 finland10084.discord.media
+104.25.158.178 finland10085.discord.media
+104.25.158.178 finland10086.discord.media
+104.25.158.178 finland10087.discord.media
+104.25.158.178 finland10088.discord.media
+104.25.158.178 finland10089.discord.media
+104.25.158.178 finland10090.discord.media
+104.25.158.178 finland10091.discord.media
+104.25.158.178 finland10092.discord.media
+104.25.158.178 finland10093.discord.media
+104.25.158.178 finland10094.discord.media
+104.25.158.178 finland10095.discord.media
+104.25.158.178 finland10096.discord.media
+104.25.158.178 finland10097.discord.media
+104.25.158.178 finland10098.discord.media
+104.25.158.178 finland10099.discord.media
+104.25.158.178 finland10100.discord.media
+104.25.158.178 finland10101.discord.media
+104.25.158.178 finland10102.discord.media
+104.25.158.178 finland10103.discord.media
+104.25.158.178 finland10104.discord.media
+104.25.158.178 finland10105.discord.media
+104.25.158.178 finland10106.discord.media
+104.25.158.178 finland10107.discord.media
+104.25.158.178 finland10108.discord.media
+104.25.158.178 finland10109.discord.media
+104.25.158.178 finland10110.discord.media
+104.25.158.178 finland10111.discord.media
+104.25.158.178 finland10112.discord.media
+104.25.158.178 finland10113.discord.media
+104.25.158.178 finland10114.discord.media
+104.25.158.178 finland10115.discord.media
+104.25.158.178 finland10116.discord.media
+104.25.158.178 finland10117.discord.media
+104.25.158.178 finland10118.discord.media
+104.25.158.178 finland10119.discord.media
+104.25.158.178 finland10120.discord.media
+104.25.158.178 finland10121.discord.media
+104.25.158.178 finland10122.discord.media
+104.25.158.178 finland10123.discord.media
+104.25.158.178 finland10124.discord.media
+104.25.158.178 finland10125.discord.media
+104.25.158.178 finland10126.discord.media
+104.25.158.178 finland10127.discord.media
+104.25.158.178 finland10128.discord.media
+104.25.158.178 finland10129.discord.media
+104.25.158.178 finland10130.discord.media
+104.25.158.178 finland10131.discord.media
+104.25.158.178 finland10132.discord.media
+104.25.158.178 finland10133.discord.media
+104.25.158.178 finland10134.discord.media
+104.25.158.178 finland10135.discord.media
+104.25.158.178 finland10136.discord.media
+104.25.158.178 finland10137.discord.media
+104.25.158.178 finland10138.discord.media
+104.25.158.178 finland10139.discord.media
+104.25.158.178 finland10140.discord.media
+104.25.158.178 finland10141.discord.media
+104.25.158.178 finland10142.discord.media
+104.25.158.178 finland10143.discord.media
+104.25.158.178 finland10144.discord.media
+104.25.158.178 finland10145.discord.media
+104.25.158.178 finland10146.discord.media
+104.25.158.178 finland10147.discord.media
+104.25.158.178 finland10148.discord.media
+104.25.158.178 finland10149.discord.media
+104.25.158.178 finland10150.discord.media
+104.25.158.178 finland10151.discord.media
+104.25.158.178 finland10152.discord.media
+104.25.158.178 finland10153.discord.media
+104.25.158.178 finland10154.discord.media
+104.25.158.178 finland10155.discord.media
+104.25.158.178 finland10156.discord.media
+104.25.158.178 finland10157.discord.media
+104.25.158.178 finland10158.discord.media
+104.25.158.178 finland10159.discord.media
+104.25.158.178 finland10160.discord.media
+104.25.158.178 finland10161.discord.media
+104.25.158.178 finland10162.discord.media
+104.25.158.178 finland10163.discord.media
+104.25.158.178 finland10164.discord.media
+104.25.158.178 finland10165.discord.media
+104.25.158.178 finland10166.discord.media
+104.25.158.178 finland10167.discord.media
+104.25.158.178 finland10168.discord.media
+104.25.158.178 finland10169.discord.media
+104.25.158.178 finland10170.discord.media
+104.25.158.178 finland10171.discord.media
+104.25.158.178 finland10172.discord.media
+104.25.158.178 finland10173.discord.media
+104.25.158.178 finland10174.discord.media
+104.25.158.178 finland10175.discord.media
+104.25.158.178 finland10176.discord.media
+104.25.158.178 finland10177.discord.media
+104.25.158.178 finland10178.discord.media
+104.25.158.178 finland10179.discord.media
+104.25.158.178 finland10180.discord.media
+104.25.158.178 finland10181.discord.media
+104.25.158.178 finland10182.discord.media
+104.25.158.178 finland10183.discord.media
+104.25.158.178 finland10184.discord.media
+104.25.158.178 finland10185.discord.media
+104.25.158.178 finland10186.discord.media
+104.25.158.178 finland10187.discord.media
+104.25.158.178 finland10188.discord.media
+104.25.158.178 finland10189.discord.media
+104.25.158.178 finland10190.discord.media
+104.25.158.178 finland10191.discord.media
+104.25.158.178 finland10192.discord.media
+104.25.158.178 finland10193.discord.media
+104.25.158.178 finland10194.discord.media
+104.25.158.178 finland10195.discord.media
+104.25.158.178 finland10196.discord.media
+104.25.158.178 finland10197.discord.media
+104.25.158.178 finland10198.discord.media
+104.25.158.178 finland10199.discord.media
 
 # Блокировка рекламы и трекеров на основе следующих списков:
 # https://adguardteam.github.io/HostlistsRegistry/assets/filter_67.txt
