@@ -1,5 +1,5 @@
 ### dns.geohide.ru: hosts file
-# Последнее обновление: 17 февраля 2026
+# Последнее обновление: 19 февраля 2026
 # Домены взяты из этих источников:
 # https://dns.geohide.ru:8443
 # https://info.dns.malw.link/hosts
@@ -948,6 +948,8 @@
 # Manus
 45.155.204.190 api.manus.im
 95.182.120.241 api.manus.im
+45.155.204.190 files.manuscdn.com
+95.182.120.241 files.manuscdn.com
 45.155.204.190 manus.im
 95.182.120.241 manus.im
 
@@ -1578,24 +1580,8 @@
 95.182.120.241 www.strava.com
 
 # Supercell
-185.246.223.127 accounts.supercell.com
-185.246.223.127 cdn.id.supercell.com
-185.246.223.127 clashofclans.inbox.supercell.com
-185.246.223.127 game-assets.brawlstarsgame.com
-185.246.223.127 game-assets.clashofclans.com
-185.246.223.127 game-assets.clashroyaleapp.com
-185.246.223.127 game.brawlstarsgame.com
-185.246.223.127 security.id.supercell.com
-185.246.223.127 store.supercell.com
-193.23.209.189 gamea.clashofclans.com
-2a05:541:104:7f::1 accounts.supercell.com
-2a05:541:104:7f::1 cdn.id.supercell.com
-2a05:541:104:7f::1 clashofclans.inbox.supercell.com
-2a05:541:104:7f::1 game-assets.brawlstarsgame.com
-2a05:541:104:7f::1 game-assets.clashofclans.com
-2a05:541:104:7f::1 game-assets.clashroyaleapp.com
-2a05:541:104:7f::1 security.id.supercell.com
-2a05:541:104:7f::1 store.supercell.com
+179.43.148.133 game.brawlstarsgame.com
+2a02:e00:ffec:4b8::1 ntc.party
 31.25.239.132 accounts.supercell.com
 31.25.239.132 cdn.id.supercell.com
 31.25.239.132 clashofclans.inbox.supercell.com
@@ -1606,16 +1592,10 @@
 31.25.239.132 game.mocogame.com
 31.25.239.132 security.id.supercell.com
 31.25.239.132 store.supercell.com
-45.95.233.23 accounts.supercell.com
-45.95.233.23 cdn.id.supercell.com
-45.95.233.23 clashofclans.inbox.supercell.com
-45.95.233.23 game-assets.brawlstarsgame.com
-45.95.233.23 game-assets.clashofclans.com
-45.95.233.23 game-assets.clashroyaleapp.com
-45.95.233.23 game.clashroyaleapp.com
-45.95.233.23 game.mocogame.com
-45.95.233.23 security.id.supercell.com
-45.95.233.23 store.supercell.com
+31.7.60.154 game.clashroyaleapp.com
+31.7.60.155 gamea.clashofclans.com
+31.7.60.156 game.squadbustersgame.com
+31.7.60.157 game.mocogame.com
 
 # Tableau
 45.155.204.190 tableau.com
