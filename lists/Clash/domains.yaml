@@ -1,7 +1,7 @@
 # NAME: GeoBlock
 # AUTHOR: Internet Helper
 # REPO: https://github.com/Internet-Helper/GeoHideDNS
-# UPDATED: 25.02.2026
+# UPDATED: 02.03.2026
 payload:
   - DOMAIN-SUFFIX,37signals.com
   - DOMAIN,access.broadcom.com
@@ -16,18 +16,18 @@ payload:
   - DOMAIN-SUFFIX,amd.com
   - DOMAIN-SUFFIX,analog.com
   - DOMAIN-SUFFIX,anthropic.com
-  - DOMAIN,api-sg-central.trae.ai
+  - DOMAIN,api16-normal-alisg.mchost.guru
   - DOMAIN,api.cdnlibs.org
   - DOMAIN,api.fitbit.com
   - DOMAIN,api.home-connect.com
   - DOMAIN,api.imgur.com
   - DOMAIN,api.jetbrains.ai
+  - DOMAIN,api-sg-central.trae.ai
+  - DOMAIN,apis.google.com
   - DOMAIN,api.trae.ai
   - DOMAIN,api.workos.com
-  - DOMAIN,api16-normal-alisg.mchost.guru
-  - DOMAIN,apis.google.com
-  - DOMAIN,app.zerossl.com
   - DOMAIN,appcatalyst.pa.googleapis.com
+  - DOMAIN,app.zerossl.com
   - DOMAIN-SUFFIX,arkoselabs.com
   - DOMAIN,assistant-s3-pa.googleapis.com
   - DOMAIN-SUFFIX,astockcdn.net
@@ -38,11 +38,11 @@ payload:
   - DOMAIN-SUFFIX,avast.com
   - DOMAIN-SUFFIX,avast.ru
   - DOMAIN-SUFFIX,badoo.app
-  - DOMAIN-SUFFIX,badoo.com
   - DOMAIN-SUFFIX,badoocdn.com
+  - DOMAIN-SUFFIX,badoo.com
   - DOMAIN,bard.google.com
-  - DOMAIN-SUFFIX,basecamp.com
   - DOMAIN-SUFFIX,basecampapi.com
+  - DOMAIN-SUFFIX,basecamp.com
   - DOMAIN-SUFFIX,behance.net
   - DOMAIN-SUFFIX,bestbuy.com
   - DOMAIN-SUFFIX,brave.com
@@ -70,22 +70,22 @@ payload:
   - DOMAIN-SUFFIX,corsair.com
   - DOMAIN-SUFFIX,crunchyroll.com
   - DOMAIN-SUFFIX,cummins.com
-  - DOMAIN,d.docs.live.net
   - DOMAIN,daily-cloudcode-pa.googleapis.com
+  - DOMAIN,d.docs.live.net
   - DOMAIN-SUFFIX,deepl.app
   - DOMAIN-SUFFIX,deepl.com
   - DOMAIN-SUFFIX,deepmind.com
   - DOMAIN-SUFFIX,deepmind.google
   - DOMAIN-SUFFIX,deezer.com
-  - DOMAIN-SUFFIX,dell.com
   - DOMAIN-SUFFIX,dellcdn.com
-  - DOMAIN,designer.microsoft.com
+  - DOMAIN-SUFFIX,dell.com
   - DOMAIN,designerapp.officeapps.live.com
+  - DOMAIN,designer.microsoft.com
   - DOMAIN-SUFFIX,designify.com
   - DOMAIN,developer.nvidia.com
   - DOMAIN,developerprofiles-pa.googleapis.com
-  - DOMAIN-SUFFIX,digikey.com
   - DOMAIN-SUFFIX,digikeyassets.com
+  - DOMAIN-SUFFIX,digikey.com
   - DOMAIN,dl.teamviewer.com
   - DOMAIN-SUFFIX,dnsspeedtest.online
   - DOMAIN-SUFFIX,dola.com
@@ -106,10 +106,10 @@ payload:
   - DOMAIN,euro.com.pl
   - DOMAIN-SUFFIX,evike.com
   - DOMAIN,f00.esfr.pl
-  - DOMAIN,files-s2pb.pbsync.com
   - DOMAIN,files.manuscdn.com
-  - DOMAIN,fitbit-pa.googleapis.com
+  - DOMAIN,files-s2pb.pbsync.com
   - DOMAIN,fitbit.google.com
+  - DOMAIN,fitbit-pa.googleapis.com
   - DOMAIN,fitbitvestibuleshim-pa.googleapis.com
   - DOMAIN-SUFFIX,fmhy.net
   - DOMAIN-SUFFIX,framer.com
@@ -169,21 +169,21 @@ payload:
   - DOMAIN-SUFFIX,ndi.tv
   - DOMAIN-SUFFIX,ndi.video
   - DOMAIN-SUFFIX,netapp.com
-  - DOMAIN,notebooklm-pa.googleapis.com
   - DOMAIN-SUFFIX,notebooklm.google
   - DOMAIN,notebooklm.google.com
+  - DOMAIN,notebooklm-pa.googleapis.com
   - DOMAIN-SUFFIX,notion.com
   - DOMAIN-SUFFIX,notion.so
-  - DOMAIN,o.pki.goog
   - DOMAIN-SUFFIX,oaistatic.com
   - DOMAIN-SUFFIX,oaiusercontent.com
   - DOMAIN-SUFFIX,opal.google
   - DOMAIN,opal.google.com
   - DOMAIN,opal.withgoogle.com
-  - DOMAIN-SUFFIX,openai.com
   - DOMAIN,openaiapi-site.azureedge.net
+  - DOMAIN-SUFFIX,openai.com
   - DOMAIN,openaipublic.blob.core.windows.net
   - DOMAIN-SUFFIX,openrouter.ai
+  - DOMAIN,o.pki.goog
   - DOMAIN-SUFFIX,oracle.com
   - DOMAIN-SUFFIX,padi.com
   - DOMAIN-SUFFIX,pandasecurity.com
@@ -205,21 +205,21 @@ payload:
   - DOMAIN,robinfrontend-pa.googleapis.com
   - DOMAIN-SUFFIX,romsgames.net
   - DOMAIN-SUFFIX,scdn.co
-  - DOMAIN-SUFFIX,scribd.com
   - DOMAIN-SUFFIX,scribdassets.com
+  - DOMAIN-SUFFIX,scribd.com
   - DOMAIN-SUFFIX,se.com
   - DOMAIN-SUFFIX,securitytrails.com
   - DOMAIN,signaler-pa.clients6.google.com
   - DOMAIN-SUFFIX,singlekey-id.com
   - DOMAIN-SUFFIX,sketchup.com
-  - DOMAIN-SUFFIX,slack.com
   - DOMAIN-SUFFIX,slackb.com
+  - DOMAIN-SUFFIX,slack.com
   - DOMAIN,sora-cdn.oaistatic.com
   - DOMAIN,sora.chatgpt.com
   - DOMAIN-SUFFIX,sora.com
-  - DOMAIN-SUFFIX,spotify.com
   - DOMAIN-SUFFIX,spotifycdn.com
   - DOMAIN-SUFFIX,spotifycdn.net
+  - DOMAIN-SUFFIX,spotify.com
   - DOMAIN-SUFFIX,squareup.com
   - DOMAIN,stitch.withgoogle.com
   - DOMAIN-SUFFIX,strava.com
@@ -237,7 +237,6 @@ payload:
   - DOMAIN-SUFFIX,ultimaker.com
   - DOMAIN-SUFFIX,unscreen.com
   - DOMAIN,usher.ttvnw.net
-  - DOMAIN-SUFFIX,w-x.co
   - DOMAIN,waa-pa.clients6.google.com
   - DOMAIN-SUFFIX,wbagora.com
   - DOMAIN-SUFFIX,wbgames.com
@@ -250,16 +249,18 @@ payload:
   - DOMAIN-SUFFIX,wise.com
   - DOMAIN-SUFFIX,wund.com
   - DOMAIN-SUFFIX,wunderground.com
+  - DOMAIN,www.cgtrader.com
   - DOMAIN,www.qwant.com
+  - DOMAIN-SUFFIX,w-x.co
   - DOMAIN-SUFFIX,wxug.com
   - DOMAIN-SUFFIX,x.ai
   - DOMAIN,xboxdesignlab.xbox.com
   - DOMAIN-SUFFIX,xerox.com
-  - DOMAIN,xgpuweb.gssv-play-prod.xboxlive.com
   - DOMAIN,xgpuwebf2p.gssv-play-prod.xboxlive.com
+  - DOMAIN,xgpuweb.gssv-play-prod.xboxlive.com
   - DOMAIN-SUFFIX,xiaomi.eu
   - DOMAIN,xsts.auth.xboxlive.com
   - DOMAIN-SUFFIX,yeggi.com
   - DOMAIN-SUFFIX,yupp.ai
-  - DOMAIN-SUFFIX,zapier-deployment.com
   - DOMAIN-SUFFIX,zapier.com
+  - DOMAIN-SUFFIX,zapier-deployment.com
