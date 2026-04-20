@@ -208,6 +208,10 @@
 37.230.192.51 claudemcpclient.com
 45.155.204.190 console.anthropic.com
 37.230.192.51 console.anthropic.com
+45.155.204.190 platform.claude.ai
+37.230.192.51 platform.claude.ai
+45.155.204.190 platform.claude.com
+37.230.192.51 platform.claude.com
 45.155.204.190 s-cdn.anthropic.com
 37.230.192.51 s-cdn.anthropic.com
 45.155.204.190 statsig.anthropic.com
