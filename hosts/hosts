@@ -1,5 +1,5 @@
 ### dns.geohide.ru: hosts file
-# Последнее обновление: 15 апреля 2026
+# Последнее обновление: 21 апреля 2026
 # Домены взяты из этих источников:
 # https://dns.geohide.ru:8443
 # https://info.dns.malw.link/hosts
@@ -194,12 +194,18 @@
 37.230.192.51 api.anthropic.com
 45.155.204.190 api.claude.ai
 37.230.192.51 api.claude.ai
+45.155.204.190 api.claude.com
+37.230.192.51 api.claude.com
 45.155.204.190 api.console.anthropic.com
 37.230.192.51 api.console.anthropic.com
 45.155.204.190 auth.anthropic.com
 37.230.192.51 auth.anthropic.com
 45.155.204.190 claude.ai
 37.230.192.51 claude.ai
+45.155.204.190 claude.com
+37.230.192.51 claude.com
+45.155.204.190 claudemcpclient.com
+37.230.192.51 claudemcpclient.com
 45.155.204.190 console.anthropic.com
 37.230.192.51 console.anthropic.com
 45.155.204.190 s-cdn.anthropic.com
@@ -214,6 +220,10 @@
 37.230.192.51 www.anthropic.com
 45.155.204.190 www.claude.ai
 37.230.192.51 www.claude.ai
+45.155.204.190 www.claude.com
+37.230.192.51 www.claude.com
+45.155.204.190 www.claudemcpclient.com
+37.230.192.51 www.claudemcpclient.com
 
 # DeepL
 45.155.204.190 api-free.deepl.com
@@ -1596,9 +1606,6 @@
 37.230.192.51 www.promo.strava.com
 45.155.204.190 www.strava.com
 37.230.192.51 www.strava.com
-
-103.27.157.38 
-103.27.157.100 
 
 # Supercell
 185.246.223.127 game.brawlstarsgame.com
