@@ -12,6 +12,7 @@ alkalimakersuite-pa.clients6.google.com
 amd.com
 analog.com
 anthropic.com
+antigravity.google
 api-sg-central.trae.ai
 api.cdnlibs.org
 api.fitbit.com
@@ -126,6 +127,7 @@ files.manuscdn.com
 fitbit-pa.googleapis.com
 fitbit.google.com
 fitbitvestibuleshim-pa.googleapis.com
+flow.google
 flowmusic.app
 fmhy.net
 formula1.com
@@ -193,6 +195,9 @@ naukri.com
 ndi.tv
 ndi.video
 netapp.com
+notebook-pa.googleapis.com
+notebook.google
+notebook.google.com
 notebooklm-pa.googleapis.com
 notebooklm.google
 notebooklm.google.com
@@ -276,6 +281,7 @@ weather.com
 web.archive.org
 webchannel-alkalimakersuite-pa.clients6.google.com
 weborama.nl
+whimsical.com
 windguru.cz
 windsurf.com
 wise.com
