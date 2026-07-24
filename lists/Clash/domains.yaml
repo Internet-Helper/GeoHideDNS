@@ -1,7 +1,7 @@
 # NAME: GeoBlock
 # AUTHOR: Internet Helper
 # REPO: https://github.com/Internet-Helper/GeoHideDNS
-# UPDATED: 15.06.2026
+# UPDATED: 25.07.2026
 payload:
   - DOMAIN-SUFFIX,37signals.com
   - DOMAIN-SUFFIX,aave.com
@@ -17,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,amd.com
   - DOMAIN-SUFFIX,analog.com
   - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,antigravity.google
   - DOMAIN,api-sg-central.trae.ai
   - DOMAIN,api.cdnlibs.org
   - DOMAIN,api.fitbit.com
@@ -131,6 +132,7 @@ payload:
   - DOMAIN,fitbit-pa.googleapis.com
   - DOMAIN,fitbit.google.com
   - DOMAIN,fitbitvestibuleshim-pa.googleapis.com
+  - DOMAIN-SUFFIX,flow.google
   - DOMAIN-SUFFIX,flowmusic.app
   - DOMAIN-SUFFIX,fmhy.net
   - DOMAIN-SUFFIX,formula1.com
@@ -198,6 +200,9 @@ payload:
   - DOMAIN-SUFFIX,ndi.tv
   - DOMAIN-SUFFIX,ndi.video
   - DOMAIN-SUFFIX,netapp.com
+  - DOMAIN,notebook-pa.googleapis.com
+  - DOMAIN-SUFFIX,notebook.google
+  - DOMAIN,notebook.google.com
   - DOMAIN,notebooklm-pa.googleapis.com
   - DOMAIN-SUFFIX,notebooklm.google
   - DOMAIN,notebooklm.google.com
@@ -281,6 +286,7 @@ payload:
   - DOMAIN,web.archive.org
   - DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
   - DOMAIN-SUFFIX,weborama.nl
+  - DOMAIN-SUFFIX,whimsical.com
   - DOMAIN-SUFFIX,windguru.cz
   - DOMAIN-SUFFIX,windsurf.com
   - DOMAIN-SUFFIX,wise.com
