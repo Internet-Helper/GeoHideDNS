@@ -27,6 +27,9 @@ makersuite.google.com
 notebooklm-pa.googleapis.com
 notebooklm.google
 notebooklm.google.com
+notebook.google.com
+notebook.google
+notebook-pa.googleapis.com
 o.pki.goog
 opal.google
 opal.google.com
