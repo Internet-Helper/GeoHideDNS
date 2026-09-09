@@ -1,6 +1,7 @@
 37signals.com
 aave.com
 access.broadcom.com
+accounts.supercell.com
 adobe.io
 affinity.studio
 ai.google.dev
@@ -20,6 +21,7 @@ api.home-connect.com
 api.imgur.com
 api.jetbrains.ai
 api.radarr.video
+api.stumbleguys.com
 api.trae.ai
 api.workos.com
 api16-normal-alisg.mchost.guru
@@ -58,12 +60,14 @@ canva.com
 canva.dev
 capcut.com
 cdn.auth0.com
+cdn.id.supercell.com
 cdn.web-platform.io
 cerebras.ai
 chatgpt.com
 chess.com
 cici.com
 ciscobinary.openh264.org
+clashofclans.inbox.supercell.com
 claude.ai
 claude.com
 claudemcpclient.com
@@ -133,7 +137,16 @@ fmhy.net
 formula1.com
 framer.com
 g2a.com
+game-assets.brawlstarsgame.com
+game-assets.clashofclans.com
+game-assets.clashroyaleapp.com
+game.boombeachgame.com
+game.brawlstarsgame.com
+game.clashroyaleapp.com
+game.mocogame.com
+game.squadbustersgame.com
 game8.co
+gamea.clashofclans.com
 gamestop.com
 geller-pa.googleapis.com
 gemini.google
@@ -179,6 +192,7 @@ makersuite.google.com
 malwarebytes.com
 manus.im
 manybooks.net
+matchmaking.stumbleguys.com
 mediaexpert.pl
 mediamarkt.pl
 meta.ai
@@ -243,6 +257,7 @@ scdn.co
 scribd.com
 scribdassets.com
 se.com
+security.id.supercell.com
 securitytrails.com
 signaler-pa.clients6.google.com
 singlekey-id.com
@@ -254,6 +269,7 @@ spotifycdn.com
 spotifycdn.net
 squareup.com
 stitch.withgoogle.com
+store.supercell.com
 strava.com
 superpharm.eu
 superpharm.pl
