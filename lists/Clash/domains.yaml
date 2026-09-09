@@ -1,11 +1,12 @@
 # NAME: GeoBlock
 # AUTHOR: Internet Helper
 # REPO: https://github.com/Internet-Helper/GeoHideDNS
-# UPDATED: 25.07.2026
+# UPDATED: 09.09.2026
 payload:
   - DOMAIN-SUFFIX,37signals.com
   - DOMAIN-SUFFIX,aave.com
   - DOMAIN,access.broadcom.com
+  - DOMAIN,accounts.supercell.com
   - DOMAIN-SUFFIX,adobe.io
   - DOMAIN-SUFFIX,affinity.studio
   - DOMAIN,ai.google.dev
@@ -25,6 +26,7 @@ payload:
   - DOMAIN,api.imgur.com
   - DOMAIN,api.jetbrains.ai
   - DOMAIN,api.radarr.video
+  - DOMAIN,api.stumbleguys.com
   - DOMAIN,api.trae.ai
   - DOMAIN,api.workos.com
   - DOMAIN,api16-normal-alisg.mchost.guru
@@ -63,12 +65,14 @@ payload:
   - DOMAIN-SUFFIX,canva.dev
   - DOMAIN-SUFFIX,capcut.com
   - DOMAIN,cdn.auth0.com
+  - DOMAIN,cdn.id.supercell.com
   - DOMAIN,cdn.web-platform.io
   - DOMAIN-SUFFIX,cerebras.ai
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,chess.com
   - DOMAIN-SUFFIX,cici.com
   - DOMAIN,ciscobinary.openh264.org
+  - DOMAIN,clashofclans.inbox.supercell.com
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,claude.com
   - DOMAIN-SUFFIX,claudemcpclient.com
@@ -138,7 +142,16 @@ payload:
   - DOMAIN-SUFFIX,formula1.com
   - DOMAIN-SUFFIX,framer.com
   - DOMAIN-SUFFIX,g2a.com
+  - DOMAIN,game-assets.brawlstarsgame.com
+  - DOMAIN,game-assets.clashofclans.com
+  - DOMAIN,game-assets.clashroyaleapp.com
+  - DOMAIN,game.boombeachgame.com
+  - DOMAIN,game.brawlstarsgame.com
+  - DOMAIN,game.clashroyaleapp.com
+  - DOMAIN,game.mocogame.com
+  - DOMAIN,game.squadbustersgame.com
   - DOMAIN-SUFFIX,game8.co
+  - DOMAIN,gamea.clashofclans.com
   - DOMAIN-SUFFIX,gamestop.com
   - DOMAIN,geller-pa.googleapis.com
   - DOMAIN-SUFFIX,gemini.google
@@ -184,6 +197,7 @@ payload:
   - DOMAIN-SUFFIX,malwarebytes.com
   - DOMAIN-SUFFIX,manus.im
   - DOMAIN-SUFFIX,manybooks.net
+  - DOMAIN,matchmaking.stumbleguys.com
   - DOMAIN-SUFFIX,mediaexpert.pl
   - DOMAIN-SUFFIX,mediamarkt.pl
   - DOMAIN-SUFFIX,meta.ai
@@ -248,6 +262,7 @@ payload:
   - DOMAIN-SUFFIX,scribd.com
   - DOMAIN-SUFFIX,scribdassets.com
   - DOMAIN-SUFFIX,se.com
+  - DOMAIN,security.id.supercell.com
   - DOMAIN-SUFFIX,securitytrails.com
   - DOMAIN,signaler-pa.clients6.google.com
   - DOMAIN-SUFFIX,singlekey-id.com
@@ -259,6 +274,7 @@ payload:
   - DOMAIN-SUFFIX,spotifycdn.net
   - DOMAIN-SUFFIX,squareup.com
   - DOMAIN,stitch.withgoogle.com
+  - DOMAIN,store.supercell.com
   - DOMAIN-SUFFIX,strava.com
   - DOMAIN-SUFFIX,superpharm.eu
   - DOMAIN-SUFFIX,superpharm.pl
