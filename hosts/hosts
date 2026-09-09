@@ -1,5 +1,5 @@
 ### geohide.ru: hosts file
-# Последнее обновление: 09.09.2026 22:16:40
+# Последнее обновление: 09.09.2026 22:53:40
 # Регион серверов: RU
 # Эти IP-адреса принадлежат GeoHide DNS:
 # 193.233.112.67
@@ -238,6 +238,18 @@
 193.233.112.68 cerebras.ai
 193.233.112.68 www.cerebras.ai
 193.233.112.88 www.cerebras.ai
+
+# Chaos
+193.233.112.88 accounts.chaos.com
+193.233.112.68 accounts.chaos.com
+193.233.112.88 enscape3d.com
+193.233.112.68 enscape3d.com
+193.233.112.88 my.chaos.com
+193.233.112.68 my.chaos.com
+193.233.112.88 ssooauth.chaos.com
+193.233.112.68 ssooauth.chaos.com
+193.233.112.68 www.chaos.com
+193.233.112.88 www.chaos.com
 
 # ChatGPT (OpenAI)
 193.233.112.68 chatgpt.com
