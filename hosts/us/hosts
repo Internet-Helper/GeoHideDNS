@@ -1,7 +1,8 @@
 ### geohide.ru: hosts file
-# Последнее обновление: 09.09.2026 22:54:04
+# Последнее обновление: 29.09.2026 05:17:16
 # Регион серверов: US
 # Эти IP-адреса принадлежат GeoHide DNS:
+# 159.194.200.33
 # 193.233.112.67
 # 193.233.112.68
 # 193.233.112.88
@@ -12,11 +13,10 @@
 # 217.60.245.233
 # 31.25.239.132
 # 143.20.64.192
-# 2.27.118.34
-# 192.3.233.253
-# 107.175.76.134
 # 192.255.159.240
 # 192.255.159.241
+# 192.3.233.253
+# 107.175.76.134
 # Остальные IP-адреса принадлежат сторонним сервисам.
 
 # Работающие IP без прокси
@@ -30,6 +30,7 @@
 45.155.204.190 dnstest.geohide.ru
 37.230.192.51 dnstest.geohide.ru
 46.8.158.6 dnstest.geohide.ru
+159.194.200.33 dnstest.geohide.ru
 
 # 37Signals
 192.255.159.241 37signals.com
@@ -756,6 +757,34 @@
 192.255.159.241 repo42.cursor.sh
 107.175.76.134 repo42.cursor.sh
 192.3.233.253 repo42.cursor.sh
+192.255.159.240 cursor-cdn.com
+192.255.159.241 cursor-cdn.com
+107.175.76.134 cursor-cdn.com
+192.3.233.253 cursor-cdn.com
+192.255.159.241 www.cursor-cdn.com
+192.255.159.240 www.cursor-cdn.com
+192.3.233.253 www.cursor-cdn.com
+107.175.76.134 www.cursor-cdn.com
+192.255.159.241 cursorvm.com
+192.255.159.240 cursorvm.com
+192.3.233.253 cursorvm.com
+107.175.76.134 cursorvm.com
+192.255.159.240 www.cursorvm.com
+192.255.159.241 www.cursorvm.com
+107.175.76.134 www.cursorvm.com
+192.3.233.253 www.cursorvm.com
+192.255.159.241 us-asia.gcpp.cursor.sh
+192.255.159.240 us-asia.gcpp.cursor.sh
+192.3.233.253 us-asia.gcpp.cursor.sh
+107.175.76.134 us-asia.gcpp.cursor.sh
+192.255.159.241 us-eu.gcpp.cursor.sh
+192.255.159.240 us-eu.gcpp.cursor.sh
+192.3.233.253 us-eu.gcpp.cursor.sh
+107.175.76.134 us-eu.gcpp.cursor.sh
+192.255.159.241 us-only.gcpp.cursor.sh
+192.255.159.240 us-only.gcpp.cursor.sh
+192.3.233.253 us-only.gcpp.cursor.sh
+107.175.76.134 us-only.gcpp.cursor.sh
 
 # DeepL
 192.255.159.240 deepl.app
@@ -1354,6 +1383,10 @@
 192.255.159.241 gemini.google.com
 107.175.76.134 gemini.google.com
 192.3.233.253 gemini.google.com
+192.255.159.240 geminiweb-pa.clients6.google.com
+192.255.159.241 geminiweb-pa.clients6.google.com
+107.175.76.134 geminiweb-pa.clients6.google.com
+192.3.233.253 geminiweb-pa.clients6.google.com
 192.255.159.240 generativeai.google
 192.255.159.241 generativeai.google
 107.175.76.134 generativeai.google
@@ -1488,6 +1521,16 @@
 192.255.159.241 www.x.ai
 107.175.76.134 www.x.ai
 192.3.233.253 www.x.ai
+
+# Groq
+192.255.159.241 api.groq.com
+192.255.159.240 api.groq.com
+192.3.233.253 api.groq.com
+107.175.76.134 api.groq.com
+192.255.159.240 console.groq.com
+192.255.159.241 console.groq.com
+107.175.76.134 console.groq.com
+192.3.233.253 console.groq.com
 
 # Guidedhacking
 192.255.159.241 guidedhacking.com
@@ -2766,6 +2809,14 @@
 192.255.159.240 www.openrouter.ai
 192.3.233.253 www.openrouter.ai
 107.175.76.134 www.openrouter.ai
+192.255.159.240 eu.openrouter.ai
+192.255.159.241 eu.openrouter.ai
+107.175.76.134 eu.openrouter.ai
+192.3.233.253 eu.openrouter.ai
+192.255.159.240 us.openrouter.ai
+192.255.159.241 us.openrouter.ai
+107.175.76.134 us.openrouter.ai
+192.3.233.253 us.openrouter.ai
 
 # Oracle
 192.255.159.240 oracle.com
@@ -3066,14 +3117,8 @@
 192.3.233.253 watch.samsung.strava.com
 
 # Stumble Guys
-192.255.159.240 api.stumbleguys.com
-192.255.159.241 api.stumbleguys.com
-107.175.76.134 api.stumbleguys.com
-192.3.233.253 api.stumbleguys.com
-192.255.159.240 matchmaking.stumbleguys.com
-192.255.159.241 matchmaking.stumbleguys.com
-107.175.76.134 matchmaking.stumbleguys.com
-192.3.233.253 matchmaking.stumbleguys.com
+2.27.118.34 api.stumbleguys.com
+2.27.118.34 matchmaking.stumbleguys.com
 
 # Supercell
 62.233.36.83 game.brawlstarsgame.com
@@ -3081,46 +3126,16 @@
 81.17.20.82 game.clashroyaleapp.com
 81.17.20.84 game.squadbustersgame.com
 81.17.20.86 gamea.clashofclans.com
-192.255.159.241 accounts.supercell.com
-192.255.159.240 accounts.supercell.com
-192.3.233.253 accounts.supercell.com
-107.175.76.134 accounts.supercell.com
-192.255.159.241 cdn.id.supercell.com
-192.255.159.240 cdn.id.supercell.com
-192.3.233.253 cdn.id.supercell.com
-107.175.76.134 cdn.id.supercell.com
-192.255.159.240 clashofclans.inbox.supercell.com
-192.255.159.241 clashofclans.inbox.supercell.com
-107.175.76.134 clashofclans.inbox.supercell.com
-192.3.233.253 clashofclans.inbox.supercell.com
-192.255.159.241 game-assets.brawlstarsgame.com
-192.255.159.240 game-assets.brawlstarsgame.com
-192.3.233.253 game-assets.brawlstarsgame.com
-107.175.76.134 game-assets.brawlstarsgame.com
-192.255.159.241 game-assets.clashofclans.com
-192.255.159.240 game-assets.clashofclans.com
-192.3.233.253 game-assets.clashofclans.com
-107.175.76.134 game-assets.clashofclans.com
-192.255.159.240 game-assets.clashroyaleapp.com
-192.255.159.241 game-assets.clashroyaleapp.com
-107.175.76.134 game-assets.clashroyaleapp.com
-192.3.233.253 game-assets.clashroyaleapp.com
-192.255.159.240 game.boombeachgame.com
-192.255.159.241 game.boombeachgame.com
-107.175.76.134 game.boombeachgame.com
-192.3.233.253 game.boombeachgame.com
-192.255.159.240 game.mocogame.com
-192.255.159.241 game.mocogame.com
-107.175.76.134 game.mocogame.com
-192.3.233.253 game.mocogame.com
-192.255.159.240 security.id.supercell.com
-192.255.159.241 security.id.supercell.com
-107.175.76.134 security.id.supercell.com
-192.3.233.253 security.id.supercell.com
-192.255.159.240 store.supercell.com
-192.255.159.241 store.supercell.com
-107.175.76.134 store.supercell.com
-192.3.233.253 store.supercell.com
+2.27.118.34 accounts.supercell.com
+2.27.118.34 cdn.id.supercell.com
+2.27.118.34 clashofclans.inbox.supercell.com
+2.27.118.34 game-assets.brawlstarsgame.com
+2.27.118.34 game-assets.clashofclans.com
+2.27.118.34 game-assets.clashroyaleapp.com
+2.27.118.34 game.boombeachgame.com
+2.27.118.34 game.mocogame.com
+2.27.118.34 security.id.supercell.com
+2.27.118.34 store.supercell.com
 
 # Tableau
 192.255.159.240 tableau.com
@@ -4131,4 +4146,48 @@
 192.255.159.241 www.freakhosting.com
 107.175.76.134 www.freakhosting.com
 192.3.233.253 www.freakhosting.com
+192.255.159.240 www.microcenter.com
+192.255.159.241 www.microcenter.com
+107.175.76.134 www.microcenter.com
+192.3.233.253 www.microcenter.com
+192.255.159.241 microcenter.com
+192.255.159.240 microcenter.com
+192.3.233.253 microcenter.com
+107.175.76.134 microcenter.com
+192.255.159.240 claudeusercontent.com
+192.255.159.241 claudeusercontent.com
+107.175.76.134 claudeusercontent.com
+192.3.233.253 claudeusercontent.com
+192.255.159.241 www.claudeusercontent.com
+192.255.159.240 www.claudeusercontent.com
+192.3.233.253 www.claudeusercontent.com
+107.175.76.134 www.claudeusercontent.com
+192.255.159.240 inceptionlabs.ai
+192.255.159.241 inceptionlabs.ai
+107.175.76.134 inceptionlabs.ai
+192.3.233.253 inceptionlabs.ai
+192.255.159.241 www.inceptionlabs.ai
+192.255.159.240 www.inceptionlabs.ai
+192.3.233.253 www.inceptionlabs.ai
+107.175.76.134 www.inceptionlabs.ai
+192.255.159.241 old.yummyani.me
+192.255.159.240 old.yummyani.me
+192.3.233.253 old.yummyani.me
+107.175.76.134 old.yummyani.me
+192.255.159.241 qoder.com
+192.255.159.240 qoder.com
+192.3.233.253 qoder.com
+107.175.76.134 qoder.com
+192.255.159.240 www.qoder.com
+192.255.159.241 www.qoder.com
+107.175.76.134 www.qoder.com
+192.3.233.253 www.qoder.com
+192.255.159.240 tokenharbor.ai
+192.255.159.241 tokenharbor.ai
+107.175.76.134 tokenharbor.ai
+192.3.233.253 tokenharbor.ai
+192.255.159.241 www.tokenharbor.ai
+192.255.159.240 www.tokenharbor.ai
+192.3.233.253 www.tokenharbor.ai
+107.175.76.134 www.tokenharbor.ai
 ### geohide.ru: end hosts file
