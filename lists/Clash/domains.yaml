@@ -1,12 +1,11 @@
 # NAME: GeoBlock
 # AUTHOR: Internet Helper
 # REPO: https://github.com/Internet-Helper/GeoHideDNS
-# UPDATED: 09.09.2026
+# UPDATED: 29.09.2026
 payload:
   - DOMAIN-SUFFIX,37signals.com
   - DOMAIN-SUFFIX,aave.com
   - DOMAIN,access.broadcom.com
-  - DOMAIN,accounts.supercell.com
   - DOMAIN-SUFFIX,adobe.io
   - DOMAIN-SUFFIX,affinity.studio
   - DOMAIN,ai.google.dev
@@ -22,23 +21,30 @@ payload:
   - DOMAIN,api-sg-central.trae.ai
   - DOMAIN,api.cdnlibs.org
   - DOMAIN,api.fitbit.com
+  - DOMAIN,api.groq.com
   - DOMAIN,api.home-connect.com
   - DOMAIN,api.imgur.com
   - DOMAIN,api.jetbrains.ai
   - DOMAIN,api.radarr.video
-  - DOMAIN,api.stumbleguys.com
   - DOMAIN,api.trae.ai
   - DOMAIN,api.workos.com
   - DOMAIN,api16-normal-alisg.mchost.guru
+  - DOMAIN,api2.cursor.sh
+  - DOMAIN,api3.cursor.sh
+  - DOMAIN,api4.cursor.sh
+  - DOMAIN,api5.cursor.sh
   - DOMAIN,apis.google.com
   - DOMAIN,app.zerossl.com
   - DOMAIN,appcatalyst.pa.googleapis.com
+  - DOMAIN-SUFFIX,arduino.cc
   - DOMAIN-SUFFIX,arkoselabs.com
   - DOMAIN-SUFFIX,arrow.com
   - DOMAIN,assistant-s3-pa.googleapis.com
   - DOMAIN-SUFFIX,astockcdn.net
   - DOMAIN-SUFFIX,atlassian.com
   - DOMAIN,auth.xboxlive.com
+  - DOMAIN,authenticate.cursor.sh
+  - DOMAIN,authenticator.cursor.sh
   - DOMAIN-SUFFIX,autodesk.com
   - DOMAIN-SUFFIX,autodesk.net
   - DOMAIN-SUFFIX,avast.com
@@ -60,27 +66,30 @@ payload:
   - DOMAIN,builds.parsec.app
   - DOMAIN-SUFFIX,bumble.com
   - DOMAIN-SUFFIX,buymeacoffee.com
+  - DOMAIN-SUFFIX,camelai.com
   - DOMAIN-SUFFIX,canva-apps.com
   - DOMAIN-SUFFIX,canva.com
   - DOMAIN-SUFFIX,canva.dev
   - DOMAIN-SUFFIX,capcut.com
-  - DOMAIN,cdn.auth0.com
-  - DOMAIN,cdn.id.supercell.com
   - DOMAIN,cdn.web-platform.io
   - DOMAIN-SUFFIX,cerebras.ai
+  - DOMAIN-SUFFIX,cgtrader.com
+  - DOMAIN-SUFFIX,chaos.com
   - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,chatgpt.site
   - DOMAIN-SUFFIX,chess.com
   - DOMAIN-SUFFIX,cici.com
   - DOMAIN,ciscobinary.openh264.org
-  - DOMAIN,clashofclans.inbox.supercell.com
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,claude.com
   - DOMAIN-SUFFIX,claudemcpclient.com
+  - DOMAIN-SUFFIX,claudeusercontent.com
   - DOMAIN-SUFFIX,clickup.com
   - DOMAIN,cms-images.mmst.eu
   - DOMAIN-SUFFIX,codeium.com
   - DOMAIN,community.sap.com
   - DOMAIN,consent.trustarc.com
+  - DOMAIN,console.groq.com
   - DOMAIN,console.neon.tech
   - DOMAIN,controlplane.tailscale.com
   - DOMAIN,copilot.microsoft.com
@@ -88,7 +97,9 @@ payload:
   - DOMAIN-SUFFIX,corsair.com
   - DOMAIN-SUFFIX,crunchyroll.com
   - DOMAIN-SUFFIX,cummins.com
-  - DOMAIN,d.docs.live.net
+  - DOMAIN-SUFFIX,cursor-cdn.com
+  - DOMAIN-SUFFIX,cursor.com
+  - DOMAIN-SUFFIX,cursorvm.com
   - DOMAIN,daily-cloudcode-pa.googleapis.com
   - DOMAIN,datastudio.google.com
   - DOMAIN-SUFFIX,deepl.app
@@ -100,7 +111,6 @@ payload:
   - DOMAIN-SUFFIX,dellcdn.com
   - DOMAIN-SUFFIX,deniko.xyz
   - DOMAIN,designer.microsoft.com
-  - DOMAIN,designerapp.officeapps.live.com
   - DOMAIN-SUFFIX,designify.com
   - DOMAIN,developer.nvidia.com
   - DOMAIN,developerprofiles-pa.googleapis.com
@@ -110,6 +120,7 @@ payload:
   - DOMAIN-SUFFIX,dnsspeedtest.online
   - DOMAIN-SUFFIX,dola.com
   - DOMAIN,download.teamviewer.com
+  - DOMAIN,download.todesktop.com
   - DOMAIN,dr.miromind.ai
   - DOMAIN,dtm8.dinamicagenerale.com
   - DOMAIN-SUFFIX,dyson.com
@@ -120,17 +131,18 @@ payload:
   - DOMAIN,edgeservices.bing.com
   - DOMAIN-SUFFIX,efsanetv.xyz
   - DOMAIN-SUFFIX,elevenlabs.io
+  - DOMAIN-SUFFIX,elevenmusic.io
   - DOMAIN-SUFFIX,elevenreader.io
   - DOMAIN-SUFFIX,elgato.com
   - DOMAIN-SUFFIX,elmastvnet.xyz
   - DOMAIN-SUFFIX,eneba.com
+  - DOMAIN-SUFFIX,enscape3d.com
   - DOMAIN-SUFFIX,etsy.com
   - DOMAIN,eu.posthog.com
   - DOMAIN,euro.com.pl
   - DOMAIN-SUFFIX,evike.com
   - DOMAIN-SUFFIX,eyyo.xyz
   - DOMAIN,f00.esfr.pl
-  - DOMAIN-SUFFIX,fal.ai
   - DOMAIN,files-s2pb.pbsync.com
   - DOMAIN,files.manuscdn.com
   - DOMAIN,fitbit-pa.googleapis.com
@@ -141,26 +153,20 @@ payload:
   - DOMAIN-SUFFIX,fmhy.net
   - DOMAIN-SUFFIX,formula1.com
   - DOMAIN-SUFFIX,framer.com
+  - DOMAIN-SUFFIX,freakhosting.com
   - DOMAIN-SUFFIX,g2a.com
-  - DOMAIN,game-assets.brawlstarsgame.com
-  - DOMAIN,game-assets.clashofclans.com
-  - DOMAIN,game-assets.clashroyaleapp.com
-  - DOMAIN,game.boombeachgame.com
-  - DOMAIN,game.brawlstarsgame.com
-  - DOMAIN,game.clashroyaleapp.com
-  - DOMAIN,game.mocogame.com
-  - DOMAIN,game.squadbustersgame.com
   - DOMAIN-SUFFIX,game8.co
-  - DOMAIN,gamea.clashofclans.com
+  - DOMAIN,game8.co.jp
+  - DOMAIN-SUFFIX,game8.jp
   - DOMAIN-SUFFIX,gamestop.com
   - DOMAIN,geller-pa.googleapis.com
   - DOMAIN-SUFFIX,gemini.google
   - DOMAIN,gemini.google.com
+  - DOMAIN,geminiweb-pa.clients6.google.com
   - DOMAIN-SUFFIX,generativeai.google
   - DOMAIN,generativelanguage.googleapis.com
   - DOMAIN-SUFFIX,genspark.ai
   - DOMAIN,geolocation.onetrust.com
-  - DOMAIN-SUFFIX,gpt3-openai.com
   - DOMAIN,gql.twitch.tv
   - DOMAIN-SUFFIX,grok.com
   - DOMAIN,grok.x.com
@@ -172,6 +178,7 @@ payload:
   - DOMAIN-SUFFIX,ikea.com
   - DOMAIN,images.contentstack.io
   - DOMAIN,img.modivo.cloud
+  - DOMAIN-SUFFIX,inceptionlabs.ai
   - DOMAIN-SUFFIX,indeed.com
   - DOMAIN-SUFFIX,intel.com
   - DOMAIN-SUFFIX,intel.de
@@ -194,13 +201,24 @@ payload:
   - DOMAIN-SUFFIX,madmapper.com
   - DOMAIN-SUFFIX,make.com
   - DOMAIN,makersuite.google.com
+  - DOMAIN-SUFFIX,makita.ca
+  - DOMAIN-SUFFIX,makita.cl
+  - DOMAIN,makita.co.nz
+  - DOMAIN,makita.com.au
+  - DOMAIN,makita.com.kh
+  - DOMAIN,makita.com.tw
+  - DOMAIN-SUFFIX,makita.sk
+  - DOMAIN-SUFFIX,makita.ua
+  - DOMAIN-SUFFIX,makitalatinamerica.com
   - DOMAIN-SUFFIX,malwarebytes.com
   - DOMAIN-SUFFIX,manus.im
   - DOMAIN-SUFFIX,manybooks.net
-  - DOMAIN,matchmaking.stumbleguys.com
+  - DOMAIN,marketplace.cursorapi.com
   - DOMAIN-SUFFIX,mediaexpert.pl
   - DOMAIN-SUFFIX,mediamarkt.pl
   - DOMAIN-SUFFIX,meta.ai
+  - DOMAIN-SUFFIX,microcenter.com
+  - DOMAIN-SUFFIX,microchip.com
   - DOMAIN-SUFFIX,minicircuits.com
   - DOMAIN-SUFFIX,misterfpga.org
   - DOMAIN-SUFFIX,modivo.pl
@@ -227,20 +245,22 @@ payload:
   - DOMAIN-SUFFIX,oaiusercontent.com
   - DOMAIN-SUFFIX,octanorm.com
   - DOMAIN,octanorm.expo.shop
+  - DOMAIN,old.yummyani.me
   - DOMAIN-SUFFIX,opal.google
   - DOMAIN,opal.google.com
   - DOMAIN,opal.withgoogle.com
   - DOMAIN-SUFFIX,openai.com
-  - DOMAIN,openaiapi-site.azureedge.net
-  - DOMAIN,openaipublic.blob.core.windows.net
+  - DOMAIN-SUFFIX,opencode.ai
   - DOMAIN-SUFFIX,openrouter.ai
   - DOMAIN-SUFFIX,oracle.com
   - DOMAIN-SUFFIX,padi.com
   - DOMAIN-SUFFIX,pandasecurity.com
+  - DOMAIN-SUFFIX,panic.com
   - DOMAIN-SUFFIX,pcmag.com
   - DOMAIN,people-pa.clients6.google.com
   - DOMAIN-SUFFIX,pi.ai
   - DOMAIN,platform.parallel.ai
+  - DOMAIN-SUFFIX,play.date
   - DOMAIN,powertoolsuk.co.uk
   - DOMAIN-SUFFIX,ppkas.com
   - DOMAIN-SUFFIX,pr0gramm.com
@@ -249,9 +269,11 @@ payload:
   - DOMAIN-SUFFIX,promods.net
   - DOMAIN,prowlarr.servarr.com
   - DOMAIN-SUFFIX,pump.fun
+  - DOMAIN-SUFFIX,qoder.com
   - DOMAIN-SUFFIX,qualtrics.com
   - DOMAIN-SUFFIX,qwant.com
   - DOMAIN-SUFFIX,remove.bg
+  - DOMAIN,repo42.cursor.sh
   - DOMAIN,res.cloudinary.com
   - DOMAIN-SUFFIX,reve.art
   - DOMAIN-SUFFIX,reve.com
@@ -262,7 +284,6 @@ payload:
   - DOMAIN-SUFFIX,scribd.com
   - DOMAIN-SUFFIX,scribdassets.com
   - DOMAIN-SUFFIX,se.com
-  - DOMAIN,security.id.supercell.com
   - DOMAIN-SUFFIX,securitytrails.com
   - DOMAIN,signaler-pa.clients6.google.com
   - DOMAIN-SUFFIX,singlekey-id.com
@@ -270,11 +291,8 @@ payload:
   - DOMAIN-SUFFIX,slack.com
   - DOMAIN-SUFFIX,slackb.com
   - DOMAIN-SUFFIX,spotify.com
-  - DOMAIN-SUFFIX,spotifycdn.com
-  - DOMAIN-SUFFIX,spotifycdn.net
   - DOMAIN-SUFFIX,squareup.com
   - DOMAIN,stitch.withgoogle.com
-  - DOMAIN,store.supercell.com
   - DOMAIN-SUFFIX,strava.com
   - DOMAIN-SUFFIX,superpharm.eu
   - DOMAIN-SUFFIX,superpharm.pl
@@ -283,6 +301,7 @@ payload:
   - DOMAIN-SUFFIX,tableau.com
   - DOMAIN-SUFFIX,ti.com
   - DOMAIN,titlestorage.xboxlive.com
+  - DOMAIN-SUFFIX,tokenharbor.ai
   - DOMAIN,trae-api-sg.mchost.guru
   - DOMAIN-SUFFIX,tria.ge
   - DOMAIN-SUFFIX,trimble.com
@@ -292,6 +311,10 @@ payload:
   - DOMAIN,uainvest.com.ua
   - DOMAIN-SUFFIX,ultimaker.com
   - DOMAIN-SUFFIX,unscreen.com
+  - DOMAIN,us-asia.gcpp.cursor.sh
+  - DOMAIN,us-eu.gcpp.cursor.sh
+  - DOMAIN,us-only.gcpp.cursor.sh
+  - DOMAIN,users.wix.com
   - DOMAIN,usher.ttvnw.net
   - DOMAIN-SUFFIX,vipvera.com
   - DOMAIN-SUFFIX,w-x.co
@@ -309,16 +332,11 @@ payload:
   - DOMAIN,ws.audioscrobbler.com
   - DOMAIN-SUFFIX,wund.com
   - DOMAIN-SUFFIX,wunderground.com
-  - DOMAIN,www.cgtrader.com
-  - DOMAIN,www.qwant.com
   - DOMAIN-SUFFIX,wxug.com
   - DOMAIN-SUFFIX,x.ai
   - DOMAIN,xboxdesignlab.xbox.com
   - DOMAIN-SUFFIX,xerox.com
-  - DOMAIN,xgpuweb.gssv-play-prod.xboxlive.com
-  - DOMAIN,xgpuwebf2p.gssv-play-prod.xboxlive.com
   - DOMAIN-SUFFIX,xiaomi.eu
-  - DOMAIN,xsts.auth.xboxlive.com
   - DOMAIN-SUFFIX,yeggi.com
   - DOMAIN-SUFFIX,yupp.ai
   - DOMAIN-SUFFIX,zapier-deployment.com
