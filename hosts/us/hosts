@@ -1,16 +1,16 @@
 ### geohide.ru: hosts file
-# Последнее обновление: 29.09.2026 05:17:16
+# Последнее обновление: 05.10.2026 04:38:09
 # Регион серверов: US
 # Эти IP-адреса принадлежат GeoHide DNS:
 # 159.194.200.33
-# 193.233.112.67
-# 193.233.112.68
 # 193.233.112.88
 # 45.155.204.190
 # 37.230.192.51
 # 46.8.158.6
-# 217.60.245.219
-# 217.60.245.233
+# 193.233.112.67
+# 193.233.112.68
+# 5.175.161.3
+# 45.13.237.213
 # 31.25.239.132
 # 143.20.64.192
 # 192.255.159.240
@@ -24,13 +24,13 @@
 ::1 ip6-localhost
 130.255.77.28 ntc.party
 2a02:e00:ffec:4b8::1 ntc.party
-193.233.112.68 dnstest.geohide.ru
-193.233.112.67 dnstest.geohide.ru
+159.194.200.33 dnstest.geohide.ru
 193.233.112.88 dnstest.geohide.ru
 45.155.204.190 dnstest.geohide.ru
 37.230.192.51 dnstest.geohide.ru
 46.8.158.6 dnstest.geohide.ru
-159.194.200.33 dnstest.geohide.ru
+193.233.112.67 dnstest.geohide.ru
+193.233.112.68 dnstest.geohide.ru
 
 # 37Signals
 192.255.159.241 37signals.com
@@ -68,7 +68,7 @@
 107.175.76.134 www.aave.com
 192.3.233.253 www.aave.com
 
-# Adobe
+# Adobe AI
 192.255.159.240 adobe.io
 192.255.159.241 adobe.io
 107.175.76.134 adobe.io
@@ -368,7 +368,7 @@
 107.175.76.134 www.canva.dev
 192.3.233.253 www.canva.dev
 
-# Camel
+# Camel AI
 192.255.159.240 camelai.com
 192.255.159.241 camelai.com
 107.175.76.134 camelai.com
@@ -392,7 +392,7 @@
 192.3.233.253 www.capcut.com
 107.175.76.134 www.capcut.com
 
-# Cerebras
+# Cerebras AI
 192.255.159.240 api.cerebras.ai
 192.255.159.241 api.cerebras.ai
 107.175.76.134 api.cerebras.ai
@@ -428,7 +428,7 @@
 192.3.233.253 www.chaos.com
 107.175.76.134 www.chaos.com
 
-# ChatGPT (OpenAI)
+# ChatGPT (OpenAI) AI
 192.255.159.241 chatgpt.com
 192.255.159.240 chatgpt.com
 192.3.233.253 chatgpt.com
@@ -560,7 +560,7 @@
 192.3.233.253 www.chess.com
 107.175.76.134 www.chess.com
 
-# Claude
+# Claude AI
 192.255.159.240 a-api.anthropic.com
 192.255.159.241 a-api.anthropic.com
 107.175.76.134 a-api.anthropic.com
@@ -625,6 +625,14 @@
 192.255.159.241 www.claudemcpclient.com
 107.175.76.134 www.claudemcpclient.com
 192.3.233.253 www.claudemcpclient.com
+192.255.159.240 claudeusercontent.com
+192.255.159.241 claudeusercontent.com
+107.175.76.134 claudeusercontent.com
+192.3.233.253 claudeusercontent.com
+192.255.159.241 www.claudeusercontent.com
+192.255.159.240 www.claudeusercontent.com
+192.3.233.253 www.claudeusercontent.com
+107.175.76.134 www.claudeusercontent.com
 192.255.159.241 console.anthropic.com
 192.255.159.240 console.anthropic.com
 192.3.233.253 console.anthropic.com
@@ -972,7 +980,7 @@
 107.175.76.134 nexus.dell.com
 192.3.233.253 nexus.dell.com
 
-# Dola
+# Dola AI
 192.255.159.240 cici.com
 192.255.159.241 cici.com
 107.175.76.134 cici.com
@@ -1034,7 +1042,7 @@
 192.3.233.253 www.dyson.se
 107.175.76.134 www.dyson.se
 
-# ElevenLabs
+# ElevenLabs AI
 192.255.159.240 api.elevenlabs.io
 192.255.159.241 api.elevenlabs.io
 107.175.76.134 api.elevenlabs.io
@@ -1214,7 +1222,7 @@
 192.3.233.253 whoogle.fmhy.net
 107.175.76.134 whoogle.fmhy.net
 
-# Formula1
+# Formula 1
 192.255.159.241 formula1.com
 192.255.159.240 formula1.com
 192.3.233.253 formula1.com
@@ -1270,7 +1278,7 @@
 192.3.233.253 www.genspark.ai
 107.175.76.134 www.genspark.ai
 
-# Google AI
+# Google Gemini AI
 192.255.159.240 antigravity.google
 192.255.159.241 antigravity.google
 107.175.76.134 antigravity.google
@@ -1383,6 +1391,10 @@
 192.255.159.241 gemini.google.com
 107.175.76.134 gemini.google.com
 192.3.233.253 gemini.google.com
+192.255.159.240 geminiweb-pa.clients.google.com
+192.255.159.241 geminiweb-pa.clients.google.com
+107.175.76.134 geminiweb-pa.clients.google.com
+192.3.233.253 geminiweb-pa.clients.google.com
 192.255.159.240 geminiweb-pa.clients6.google.com
 192.255.159.241 geminiweb-pa.clients6.google.com
 107.175.76.134 geminiweb-pa.clients6.google.com
@@ -1480,7 +1492,7 @@
 192.3.233.253 webchannel-alkalimakersuite-pa.clients6.google.com
 107.175.76.134 webchannel-alkalimakersuite-pa.clients6.google.com
 
-# Grok
+# Grok AI
 192.255.159.241 accounts.x.ai
 192.255.159.240 accounts.x.ai
 192.3.233.253 accounts.x.ai
@@ -1522,7 +1534,7 @@
 107.175.76.134 www.x.ai
 192.3.233.253 www.x.ai
 
-# Groq
+# Groq AI
 192.255.159.241 api.groq.com
 192.255.159.240 api.groq.com
 192.3.233.253 api.groq.com
@@ -4154,14 +4166,6 @@
 192.255.159.240 microcenter.com
 192.3.233.253 microcenter.com
 107.175.76.134 microcenter.com
-192.255.159.240 claudeusercontent.com
-192.255.159.241 claudeusercontent.com
-107.175.76.134 claudeusercontent.com
-192.3.233.253 claudeusercontent.com
-192.255.159.241 www.claudeusercontent.com
-192.255.159.240 www.claudeusercontent.com
-192.3.233.253 www.claudeusercontent.com
-107.175.76.134 www.claudeusercontent.com
 192.255.159.240 inceptionlabs.ai
 192.255.159.241 inceptionlabs.ai
 107.175.76.134 inceptionlabs.ai
@@ -4190,4 +4194,20 @@
 192.255.159.240 www.tokenharbor.ai
 192.3.233.253 www.tokenharbor.ai
 107.175.76.134 www.tokenharbor.ai
+192.255.159.241 audacy.com
+192.255.159.240 audacy.com
+192.3.233.253 audacy.com
+107.175.76.134 audacy.com
+192.255.159.240 www.audacy.com
+192.255.159.241 www.audacy.com
+107.175.76.134 www.audacy.com
+192.3.233.253 www.audacy.com
+192.255.159.241 build.nvidia.com
+192.255.159.240 build.nvidia.com
+192.3.233.253 build.nvidia.com
+107.175.76.134 build.nvidia.com
+192.255.159.241 ngc.nvidia.com
+192.255.159.240 ngc.nvidia.com
+192.3.233.253 ngc.nvidia.com
+107.175.76.134 ngc.nvidia.com
 ### geohide.ru: end hosts file
