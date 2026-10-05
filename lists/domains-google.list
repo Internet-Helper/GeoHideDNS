@@ -5,6 +5,7 @@ aitestkitchen.withgoogle.com
 alkalicore-pa.clients6.google.com
 alkalimakersuite-pa.clients6.google.com
 antigravity.google
+api.fitbit.com
 apis.google.com
 appcatalyst.pa.googleapis.com
 assistant-s3-pa.googleapis.com
@@ -14,6 +15,9 @@ datastudio.google.com
 deepmind.com
 deepmind.google
 developerprofiles-pa.googleapis.com
+fitbit-pa.googleapis.com
+fitbit.google.com
+fitbitvestibuleshim-pa.googleapis.com
 flow.google
 flowmusic.app
 geller-pa.googleapis.com
