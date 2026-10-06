@@ -1,5 +1,5 @@
 ### geohide.ru: hosts file
-# Последнее обновление: 05.10.2026 04:38:00
+# Последнее обновление: 06.10.2026 05:52:29
 # Регион серверов: EU
 # Эти IP-адреса принадлежат GeoHide DNS:
 # 159.194.200.33
@@ -1327,6 +1327,10 @@
 5.175.161.3 ai.google.dev
 31.25.239.132 ai.google.dev
 143.20.64.192 ai.google.dev
+45.13.237.213 aicode.googleapis.com
+5.175.161.3 aicode.googleapis.com
+31.25.239.132 aicode.googleapis.com
+143.20.64.192 aicode.googleapis.com
 45.13.237.213 aisandbox-pa.googleapis.com
 5.175.161.3 aisandbox-pa.googleapis.com
 31.25.239.132 aisandbox-pa.googleapis.com
@@ -2797,10 +2801,18 @@
 143.20.64.192 www.notion.so
 
 # Nvidia
+45.13.237.213 build.nvidia.com
+5.175.161.3 build.nvidia.com
+31.25.239.132 build.nvidia.com
+143.20.64.192 build.nvidia.com
 45.13.237.213 developer.nvidia.com
 5.175.161.3 developer.nvidia.com
 31.25.239.132 developer.nvidia.com
 143.20.64.192 developer.nvidia.com
+45.13.237.213 ngc.nvidia.com
+5.175.161.3 ngc.nvidia.com
+31.25.239.132 ngc.nvidia.com
+143.20.64.192 ngc.nvidia.com
 
 # OpenCode AI
 5.175.161.3 opencode.ai
@@ -4202,12 +4214,4 @@
 45.13.237.213 www.audacy.com
 143.20.64.192 www.audacy.com
 31.25.239.132 www.audacy.com
-45.13.237.213 build.nvidia.com
-5.175.161.3 build.nvidia.com
-31.25.239.132 build.nvidia.com
-143.20.64.192 build.nvidia.com
-45.13.237.213 ngc.nvidia.com
-5.175.161.3 ngc.nvidia.com
-31.25.239.132 ngc.nvidia.com
-143.20.64.192 ngc.nvidia.com
 ### geohide.ru: end hosts file
