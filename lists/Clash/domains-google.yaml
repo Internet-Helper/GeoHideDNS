@@ -1,7 +1,7 @@
 # NAME: Google-Gemini-FitBit-AI
 # AUTHOR: Internet Helper
 # REPO: https://github.com/Internet-Helper/GeoHideDNS
-# UPDATED: 06.10.2026
+# UPDATED: 13.10.2026
 payload:
   - DOMAIN,ai.google.dev
   - DOMAIN,aicode.googleapis.com
@@ -25,6 +25,7 @@ payload:
   - DOMAIN,fitbit.google.com
   - DOMAIN,fitbitvestibuleshim-pa.googleapis.com
   - DOMAIN-SUFFIX,flow.google
+  - DOMAIN,flow.google.com
   - DOMAIN-SUFFIX,flowmusic.app
   - DOMAIN,geller-pa.googleapis.com
   - DOMAIN-SUFFIX,gemini.google
@@ -50,10 +51,10 @@ payload:
   - DOMAIN,opal.google.com
   - DOMAIN,opal.withgoogle.com
   - DOMAIN,people-pa.clients6.google.com
+  - DOMAIN-SUFFIX,playground.google
   - DOMAIN,proactivebackend-pa.googleapis.com
   - DOMAIN,robinfrontend-pa.googleapis.com
   - DOMAIN,signaler-pa.clients6.google.com
   - DOMAIN,stitch.withgoogle.com
   - DOMAIN,waa-pa.clients6.google.com
   - DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
-
