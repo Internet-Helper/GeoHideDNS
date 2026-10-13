@@ -1,5 +1,5 @@
 ### geohide.ru: hosts file
-# Последнее обновление: 07.10.2026 05:03:43
+# Последнее обновление: 13.10.2026 06:23:41
 # Регион серверов: EU
 # Эти IP-адреса принадлежат GeoHide DNS:
 # 159.194.200.33
@@ -27,9 +27,6 @@
 2a02:e00:ffec:4b8::1 ntc.party
 159.194.200.33 dnstest.geohide.ru
 193.233.112.88 dnstest.geohide.ru
-45.155.204.190 dnstest.geohide.ru
-37.230.192.51 dnstest.geohide.ru
-46.8.158.6 dnstest.geohide.ru
 193.233.112.67 dnstest.geohide.ru
 193.233.112.68 dnstest.geohide.ru
 
@@ -553,6 +550,11 @@
 45.13.237.213 auth0.openai.com
 143.20.64.192 auth0.openai.com
 31.25.239.132 auth0.openai.com
+5.175.161.40 bps.openai.com
+5.175.161.3 bps.openai.com
+45.13.237.213 bps.openai.com
+31.25.239.132 bps.openai.com
+143.20.64.192 bps.openai.com
 5.175.161.40 platform.openai.com
 5.175.161.3 platform.openai.com
 45.13.237.213 platform.openai.com
@@ -1639,6 +1641,16 @@
 5.175.161.3 www.flow.google
 31.25.239.132 www.flow.google
 143.20.64.192 www.flow.google
+5.175.161.40 flow.google.com
+5.175.161.3 flow.google.com
+45.13.237.213 flow.google.com
+31.25.239.132 flow.google.com
+143.20.64.192 flow.google.com
+45.13.237.213 www.flow.google.com
+5.175.161.3 www.flow.google.com
+5.175.161.40 www.flow.google.com
+143.20.64.192 www.flow.google.com
+31.25.239.132 www.flow.google.com
 5.175.161.40 flowmusic.app
 5.175.161.3 flowmusic.app
 45.13.237.213 flowmusic.app
@@ -1849,6 +1861,11 @@
 5.175.161.40 people-pa.clients6.google.com
 143.20.64.192 people-pa.clients6.google.com
 31.25.239.132 people-pa.clients6.google.com
+5.175.161.40 playground.google
+5.175.161.3 playground.google
+45.13.237.213 playground.google
+31.25.239.132 playground.google
+143.20.64.192 playground.google
 45.13.237.213 proactivebackend-pa.googleapis.com
 5.175.161.40 proactivebackend-pa.googleapis.com
 5.175.161.3 proactivebackend-pa.googleapis.com
@@ -3684,6 +3701,16 @@
 31.25.239.132 sketchup.trimble.com
 
 # Spotify
+45.13.237.213 spotify.dev
+5.175.161.3 spotify.dev
+5.175.161.40 spotify.dev
+143.20.64.192 spotify.dev
+31.25.239.132 spotify.dev
+5.175.161.40 www.spotify.dev
+5.175.161.3 www.spotify.dev
+45.13.237.213 www.spotify.dev
+31.25.239.132 www.spotify.dev
+143.20.64.192 www.spotify.dev
 5.175.161.3 spotify.com
 5.175.161.40 spotify.com
 45.13.237.213 spotify.com
