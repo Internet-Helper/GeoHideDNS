@@ -1,7 +1,7 @@
 # NAME: GeoBlock
 # AUTHOR: Internet Helper
 # REPO: https://github.com/Internet-Helper/GeoHideDNS
-# UPDATED: 06.10.2026
+# UPDATED: 13.10.2026
 payload:
   - DOMAIN-SUFFIX,37signals.com
   - DOMAIN-SUFFIX,aave.com
@@ -152,6 +152,7 @@ payload:
   - DOMAIN,fitbit.google.com
   - DOMAIN,fitbitvestibuleshim-pa.googleapis.com
   - DOMAIN-SUFFIX,flow.google
+  - DOMAIN,flow.google.com
   - DOMAIN-SUFFIX,flowmusic.app
   - DOMAIN-SUFFIX,fmhy.net
   - DOMAIN-SUFFIX,formula1.com
@@ -266,6 +267,7 @@ payload:
   - DOMAIN-SUFFIX,pi.ai
   - DOMAIN,platform.parallel.ai
   - DOMAIN-SUFFIX,play.date
+  - DOMAIN-SUFFIX,playground.google
   - DOMAIN,powertoolsuk.co.uk
   - DOMAIN-SUFFIX,ppkas.com
   - DOMAIN-SUFFIX,pr0gramm.com
@@ -296,6 +298,7 @@ payload:
   - DOMAIN-SUFFIX,slack.com
   - DOMAIN-SUFFIX,slackb.com
   - DOMAIN-SUFFIX,spotify.com
+  - DOMAIN-SUFFIX,spotify.dev
   - DOMAIN-SUFFIX,squareup.com
   - DOMAIN,stitch.withgoogle.com
   - DOMAIN-SUFFIX,strava.com
@@ -346,4 +349,3 @@ payload:
   - DOMAIN-SUFFIX,yupp.ai
   - DOMAIN-SUFFIX,zapier-deployment.com
   - DOMAIN-SUFFIX,zapier.com
-
