@@ -20,6 +20,7 @@ fitbit-pa.googleapis.com
 fitbit.google.com
 fitbitvestibuleshim-pa.googleapis.com
 flow.google
+flow.google.com
 flowmusic.app
 geller-pa.googleapis.com
 gemini.google
@@ -45,6 +46,7 @@ opal.google
 opal.google.com
 opal.withgoogle.com
 people-pa.clients6.google.com
+playground.google
 proactivebackend-pa.googleapis.com
 robinfrontend-pa.googleapis.com
 signaler-pa.clients6.google.com
