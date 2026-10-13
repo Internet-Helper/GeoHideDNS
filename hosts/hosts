@@ -1,5 +1,5 @@
 ### geohide.ru: hosts file
-# Последнее обновление: 07.10.2026 05:03:35
+# Последнее обновление: 13.10.2026 06:23:33
 # Регион серверов: RU
 # Эти IP-адреса принадлежат GeoHide DNS:
 # 159.194.200.33
@@ -27,9 +27,6 @@
 2a02:e00:ffec:4b8::1 ntc.party
 159.194.200.33 dnstest.geohide.ru
 193.233.112.88 dnstest.geohide.ru
-45.155.204.190 dnstest.geohide.ru
-37.230.192.51 dnstest.geohide.ru
-46.8.158.6 dnstest.geohide.ru
 193.233.112.67 dnstest.geohide.ru
 193.233.112.68 dnstest.geohide.ru
 
@@ -458,6 +455,10 @@
 193.233.112.88 auth0.openai.com
 193.233.112.67 auth0.openai.com
 159.194.200.33 auth0.openai.com
+193.233.112.88 bps.openai.com
+193.233.112.68 bps.openai.com
+159.194.200.33 bps.openai.com
+193.233.112.67 bps.openai.com
 159.194.200.33 platform.openai.com
 193.233.112.67 platform.openai.com
 193.233.112.88 platform.openai.com
@@ -1336,6 +1337,14 @@
 193.233.112.68 www.flow.google
 159.194.200.33 www.flow.google
 193.233.112.67 www.flow.google
+159.194.200.33 flow.google.com
+193.233.112.67 flow.google.com
+193.233.112.88 flow.google.com
+193.233.112.68 flow.google.com
+193.233.112.68 www.flow.google.com
+193.233.112.88 www.flow.google.com
+193.233.112.67 www.flow.google.com
+159.194.200.33 www.flow.google.com
 159.194.200.33 flowmusic.app
 193.233.112.67 flowmusic.app
 193.233.112.88 flowmusic.app
@@ -1504,6 +1513,10 @@
 193.233.112.88 people-pa.clients6.google.com
 193.233.112.67 people-pa.clients6.google.com
 159.194.200.33 people-pa.clients6.google.com
+159.194.200.33 playground.google
+193.233.112.67 playground.google
+193.233.112.88 playground.google
+193.233.112.68 playground.google
 159.194.200.33 proactivebackend-pa.googleapis.com
 193.233.112.67 proactivebackend-pa.googleapis.com
 193.233.112.88 proactivebackend-pa.googleapis.com
@@ -2986,6 +2999,14 @@
 159.194.200.33 sketchup.trimble.com
 
 # Spotify
+193.233.112.68 spotify.dev
+193.233.112.88 spotify.dev
+193.233.112.67 spotify.dev
+159.194.200.33 spotify.dev
+159.194.200.33 www.spotify.dev
+193.233.112.67 www.spotify.dev
+193.233.112.88 www.spotify.dev
+193.233.112.68 www.spotify.dev
 193.233.112.67 spotify.com
 159.194.200.33 spotify.com
 193.233.112.68 spotify.com
