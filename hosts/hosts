@@ -1,5 +1,5 @@
 ### geohide.ru: hosts file
-# Последнее обновление: 13.10.2026 06:23:33
+# Последнее обновление: 14.10.2026 03:43:07
 # Регион серверов: RU
 # Эти IP-адреса принадлежат GeoHide DNS:
 # 159.194.200.33
@@ -1473,6 +1473,10 @@
 193.233.112.67 labs.google.com
 193.233.112.88 labs.google.com
 193.233.112.68 labs.google.com
+193.233.112.68 labstailwind.pa.googleapis.com
+159.194.200.33 labstailwind.pa.googleapis.com
+193.233.112.67 labstailwind.pa.googleapis.com
+193.233.112.88 labstailwind.pa.googleapis.com
 193.233.112.88 lookerstudio.google.com
 193.233.112.68 lookerstudio.google.com
 159.194.200.33 lookerstudio.google.com
