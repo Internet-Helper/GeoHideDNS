@@ -192,6 +192,7 @@ kaleido.ai
 knowledge.broadcom.com
 labs.google
 labs.google.com
+labstailwind.pa.googleapis.com
 last.fm
 lego.com
 linear.app
