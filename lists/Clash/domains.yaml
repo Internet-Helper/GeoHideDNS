@@ -1,7 +1,7 @@
 # NAME: GeoBlock
 # AUTHOR: Internet Helper
 # REPO: https://github.com/Internet-Helper/GeoHideDNS
-# UPDATED: 13.10.2026
+# UPDATED: 14.10.2026
 payload:
   - DOMAIN-SUFFIX,37signals.com
   - DOMAIN-SUFFIX,aave.com
@@ -197,6 +197,7 @@ payload:
   - DOMAIN,knowledge.broadcom.com
   - DOMAIN-SUFFIX,labs.google
   - DOMAIN,labs.google.com
+  - DOMAIN,labstailwind.pa.googleapis.com
   - DOMAIN-SUFFIX,last.fm
   - DOMAIN-SUFFIX,lego.com
   - DOMAIN-SUFFIX,linear.app
@@ -349,3 +350,4 @@ payload:
   - DOMAIN-SUFFIX,yupp.ai
   - DOMAIN-SUFFIX,zapier-deployment.com
   - DOMAIN-SUFFIX,zapier.com
+
