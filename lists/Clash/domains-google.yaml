@@ -1,7 +1,3 @@
-# NAME: Google-Gemini-FitBit-AI
-# AUTHOR: Internet Helper
-# REPO: https://github.com/Internet-Helper/GeoHideDNS
-# UPDATED: 13.10.2026
 payload:
   - DOMAIN,ai.google.dev
   - DOMAIN,aicode.googleapis.com
