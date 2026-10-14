@@ -38,6 +38,7 @@ payload:
   - DOMAIN,jules.google.com
   - DOMAIN-SUFFIX,labs.google
   - DOMAIN,labs.google.com
+  - DOMAIN,labstailwind.pa.googleapis.com
   - DOMAIN,lookerstudio.google.com
   - DOMAIN,makersuite.google.com
   - DOMAIN,notebook-pa.googleapis.com
@@ -58,3 +59,4 @@ payload:
   - DOMAIN,stitch.withgoogle.com
   - DOMAIN,waa-pa.clients6.google.com
   - DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
+
