@@ -1,12 +1,16 @@
 payload:
   - DOMAIN,ai.google.dev
   - DOMAIN,aicode.googleapis.com
+  - DOMAIN,aida.googleapis.com
   - DOMAIN,aisandbox-pa.googleapis.com
   - DOMAIN,aistudio.google.com
   - DOMAIN,aitestkitchen.withgoogle.com
   - DOMAIN,alkalicore-pa.clients6.google.com
   - DOMAIN,alkalimakersuite-pa.clients6.google.com
+  - DOMAIN,antigravity-pa.googleapis.com
+  - DOMAIN-SUFFIX,antigravity-unleash.goog
   - DOMAIN-SUFFIX,antigravity.google
+  - DOMAIN,antigravity.googleapis.com
   - DOMAIN,api.fitbit.com
   - DOMAIN,apis.google.com
   - DOMAIN,appcatalyst.pa.googleapis.com
@@ -55,4 +59,3 @@ payload:
   - DOMAIN,stitch.withgoogle.com
   - DOMAIN,waa-pa.clients6.google.com
   - DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
-
