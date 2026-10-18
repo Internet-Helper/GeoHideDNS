@@ -5,6 +5,7 @@ adobe.io
 affinity.studio
 ai.google.dev
 aicode.googleapis.com
+aida.googleapis.com
 aisandbox-pa.googleapis.com
 aistudio.google.com
 aitestkitchen.withgoogle.com
@@ -13,7 +14,10 @@ alkalimakersuite-pa.clients6.google.com
 amd.com
 analog.com
 anthropic.com
+antigravity-pa.googleapis.com
+antigravity-unleash.goog
 antigravity.google
+antigravity.googleapis.com
 api-sg-central.trae.ai
 api.cdnlibs.org
 api.fitbit.com
@@ -221,6 +225,7 @@ meta.ai
 microcenter.com
 microchip.com
 minicircuits.com
+miro.com
 misterfpga.org
 modivo.pl
 mongodb.com
@@ -291,6 +296,8 @@ securitytrails.com
 signaler-pa.clients6.google.com
 singlekey-id.com
 sketchup.com
+slack-core.com
+slack-edge.com
 slack.com
 slackb.com
 spotify.com
