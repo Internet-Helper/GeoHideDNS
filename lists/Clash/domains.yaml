@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,affinity.studio
   - DOMAIN,ai.google.dev
   - DOMAIN,aicode.googleapis.com
+  - DOMAIN,aida.googleapis.com
   - DOMAIN,aisandbox-pa.googleapis.com
   - DOMAIN,aistudio.google.com
   - DOMAIN,aitestkitchen.withgoogle.com
@@ -14,7 +15,10 @@ payload:
   - DOMAIN-SUFFIX,amd.com
   - DOMAIN-SUFFIX,analog.com
   - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN,antigravity-pa.googleapis.com
+  - DOMAIN-SUFFIX,antigravity-unleash.goog
   - DOMAIN-SUFFIX,antigravity.google
+  - DOMAIN,antigravity.googleapis.com
   - DOMAIN,api-sg-central.trae.ai
   - DOMAIN,api.cdnlibs.org
   - DOMAIN,api.fitbit.com
@@ -222,6 +226,7 @@ payload:
   - DOMAIN-SUFFIX,microcenter.com
   - DOMAIN-SUFFIX,microchip.com
   - DOMAIN-SUFFIX,minicircuits.com
+  - DOMAIN-SUFFIX,miro.com
   - DOMAIN-SUFFIX,misterfpga.org
   - DOMAIN-SUFFIX,modivo.pl
   - DOMAIN-SUFFIX,mongodb.com
@@ -292,6 +297,8 @@ payload:
   - DOMAIN,signaler-pa.clients6.google.com
   - DOMAIN-SUFFIX,singlekey-id.com
   - DOMAIN-SUFFIX,sketchup.com
+  - DOMAIN-SUFFIX,slack-core.com
+  - DOMAIN-SUFFIX,slack-edge.com
   - DOMAIN-SUFFIX,slack.com
   - DOMAIN-SUFFIX,slackb.com
   - DOMAIN-SUFFIX,spotify.com
@@ -346,4 +353,3 @@ payload:
   - DOMAIN-SUFFIX,yupp.ai
   - DOMAIN-SUFFIX,zapier-deployment.com
   - DOMAIN-SUFFIX,zapier.com
-
