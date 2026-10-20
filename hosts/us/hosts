@@ -1,16 +1,16 @@
 ### geohide.ru: hosts file
-# Последнее обновление: 14.10.2026 03:43:27
+# Последнее обновление: 20.10.2026 04:56:28
 # Регион серверов: US
 # Эти IP-адреса принадлежат GeoHide DNS:
 # 159.194.200.33
 # 193.233.112.67
-# 193.233.112.88
-# 45.155.204.190
-# 37.230.192.51
-# 46.8.158.6
 # 193.233.112.68
+# 193.233.112.88
+# 37.230.192.51
 # 5.175.161.3
 # 5.175.161.40
+# 37.221.93.141
+# 37.221.93.128
 # 45.13.237.213
 # 31.25.239.132
 # 143.20.64.192
@@ -26,9 +26,10 @@
 130.255.77.28 ntc.party
 2a02:e00:ffec:4b8::1 ntc.party
 159.194.200.33 dnstest.geohide.ru
-193.233.112.88 dnstest.geohide.ru
 193.233.112.67 dnstest.geohide.ru
 193.233.112.68 dnstest.geohide.ru
+193.233.112.88 dnstest.geohide.ru
+37.230.192.51 dnstest.geohide.ru
 
 # 37Signals
 192.255.159.241 37signals.com
@@ -1317,6 +1318,26 @@
 107.175.76.134 www.genspark.ai
 
 # Google Gemini AI
+192.255.159.241 aida.googleapis.com
+192.255.159.240 aida.googleapis.com
+192.3.233.253 aida.googleapis.com
+107.175.76.134 aida.googleapis.com
+192.255.159.240 antigravity-pa.googleapis.com
+192.255.159.241 antigravity-pa.googleapis.com
+107.175.76.134 antigravity-pa.googleapis.com
+192.3.233.253 antigravity-pa.googleapis.com
+192.255.159.240 antigravity-unleash.goog
+192.255.159.241 antigravity-unleash.goog
+107.175.76.134 antigravity-unleash.goog
+192.3.233.253 antigravity-unleash.goog
+192.255.159.241 www.antigravity-unleash.goog
+192.255.159.240 www.antigravity-unleash.goog
+192.3.233.253 www.antigravity-unleash.goog
+107.175.76.134 www.antigravity-unleash.goog
+192.255.159.240 antigravity.googleapis.com
+192.255.159.241 antigravity.googleapis.com
+107.175.76.134 antigravity.googleapis.com
+192.3.233.253 antigravity.googleapis.com
 192.255.159.240 antigravity.google
 192.255.159.241 antigravity.google
 107.175.76.134 antigravity.google
@@ -2966,6 +2987,56 @@
 107.175.76.134 www.qwant.com
 192.3.233.253 www.qwant.com
 
+# Slack
+192.255.159.240 slack.com
+192.255.159.241 slack.com
+107.175.76.134 slack.com
+192.3.233.253 slack.com
+192.255.159.241 www.slack.com
+192.255.159.240 www.slack.com
+192.3.233.253 www.slack.com
+107.175.76.134 www.slack.com
+192.255.159.240 slackb.com
+192.255.159.241 slackb.com
+107.175.76.134 slackb.com
+192.3.233.253 slackb.com
+192.255.159.241 www.slackb.com
+192.255.159.240 www.slackb.com
+192.3.233.253 www.slackb.com
+107.175.76.134 www.slackb.com
+192.255.159.240 slack-core.com
+192.255.159.241 slack-core.com
+107.175.76.134 slack-core.com
+192.3.233.253 slack-core.com
+192.255.159.241 www.slack-core.com
+192.255.159.240 www.slack-core.com
+192.3.233.253 www.slack-core.com
+107.175.76.134 www.slack-core.com
+192.255.159.240 slack-edge.com
+192.255.159.241 slack-edge.com
+107.175.76.134 slack-edge.com
+192.3.233.253 slack-edge.com
+192.255.159.241 www.slack-edge.com
+192.255.159.240 www.slack-edge.com
+192.3.233.253 www.slack-edge.com
+107.175.76.134 www.slack-edge.com
+192.255.159.240 slack-files.com
+192.255.159.241 slack-files.com
+107.175.76.134 slack-files.com
+192.3.233.253 slack-files.com
+192.255.159.241 www.slack-files.com
+192.255.159.240 www.slack-files.com
+192.3.233.253 www.slack-files.com
+107.175.76.134 www.slack-files.com
+192.255.159.241 slack-imgs.com
+192.255.159.240 slack-imgs.com
+192.3.233.253 slack-imgs.com
+107.175.76.134 slack-imgs.com
+192.255.159.240 www.slack-imgs.com
+192.255.159.241 www.slack-imgs.com
+107.175.76.134 www.slack-imgs.com
+192.3.233.253 www.slack-imgs.com
+
 # Scribd
 192.255.159.241 scribd.com
 192.255.159.240 scribd.com
@@ -4036,22 +4107,6 @@
 192.255.159.241 www.singlekey-id.com
 107.175.76.134 www.singlekey-id.com
 192.3.233.253 www.singlekey-id.com
-192.255.159.240 slack.com
-192.255.159.241 slack.com
-107.175.76.134 slack.com
-192.3.233.253 slack.com
-192.255.159.241 www.slack.com
-192.255.159.240 www.slack.com
-192.3.233.253 www.slack.com
-107.175.76.134 www.slack.com
-192.255.159.240 slackb.com
-192.255.159.241 slackb.com
-107.175.76.134 slackb.com
-192.3.233.253 slackb.com
-192.255.159.241 www.slackb.com
-192.255.159.240 www.slackb.com
-192.3.233.253 www.slackb.com
-107.175.76.134 www.slackb.com
 192.255.159.240 squareup.com
 192.255.159.241 squareup.com
 107.175.76.134 squareup.com
@@ -4276,4 +4331,12 @@
 192.255.159.241 www.audacy.com
 107.175.76.134 www.audacy.com
 192.3.233.253 www.audacy.com
+192.255.159.241 miro.com
+192.255.159.240 miro.com
+192.3.233.253 miro.com
+107.175.76.134 miro.com
+192.255.159.240 www.miro.com
+192.255.159.241 www.miro.com
+107.175.76.134 www.miro.com
+192.3.233.253 www.miro.com
 ### geohide.ru: end hosts file
