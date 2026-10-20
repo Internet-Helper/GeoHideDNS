@@ -299,6 +299,8 @@ payload:
   - DOMAIN-SUFFIX,sketchup.com
   - DOMAIN-SUFFIX,slack-core.com
   - DOMAIN-SUFFIX,slack-edge.com
+  - DOMAIN-SUFFIX,slack-files.com
+  - DOMAIN-SUFFIX,slack-imgs.com
   - DOMAIN-SUFFIX,slack.com
   - DOMAIN-SUFFIX,slackb.com
   - DOMAIN-SUFFIX,spotify.com
