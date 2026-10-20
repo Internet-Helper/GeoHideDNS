@@ -298,6 +298,8 @@ singlekey-id.com
 sketchup.com
 slack-core.com
 slack-edge.com
+slack-files.com
+slack-imgs.com
 slack.com
 slackb.com
 spotify.com
