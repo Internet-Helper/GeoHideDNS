@@ -1,16 +1,16 @@
 ### geohide.ru: hosts file
-# Последнее обновление: 14.10.2026 03:43:07
+# Последнее обновление: 20.10.2026 04:56:02
 # Регион серверов: RU
 # Эти IP-адреса принадлежат GeoHide DNS:
 # 159.194.200.33
 # 193.233.112.67
-# 193.233.112.88
-# 45.155.204.190
-# 37.230.192.51
-# 46.8.158.6
 # 193.233.112.68
+# 193.233.112.88
+# 37.230.192.51
 # 5.175.161.3
 # 5.175.161.40
+# 37.221.93.141
+# 37.221.93.128
 # 45.13.237.213
 # 31.25.239.132
 # 143.20.64.192
@@ -26,9 +26,10 @@
 130.255.77.28 ntc.party
 2a02:e00:ffec:4b8::1 ntc.party
 159.194.200.33 dnstest.geohide.ru
-193.233.112.88 dnstest.geohide.ru
 193.233.112.67 dnstest.geohide.ru
 193.233.112.68 dnstest.geohide.ru
+193.233.112.88 dnstest.geohide.ru
+37.230.192.51 dnstest.geohide.ru
 
 # 37Signals
 193.233.112.88 37signals.com
@@ -1317,6 +1318,26 @@
 193.233.112.67 www.genspark.ai
 
 # Google Gemini AI
+193.233.112.88 aida.googleapis.com
+193.233.112.68 aida.googleapis.com
+159.194.200.33 aida.googleapis.com
+193.233.112.67 aida.googleapis.com
+193.233.112.67 antigravity-pa.googleapis.com
+159.194.200.33 antigravity-pa.googleapis.com
+193.233.112.68 antigravity-pa.googleapis.com
+193.233.112.88 antigravity-pa.googleapis.com
+193.233.112.67 antigravity-unleash.goog
+159.194.200.33 antigravity-unleash.goog
+193.233.112.68 antigravity-unleash.goog
+193.233.112.88 antigravity-unleash.goog
+159.194.200.33 www.antigravity-unleash.goog
+193.233.112.67 www.antigravity-unleash.goog
+193.233.112.88 www.antigravity-unleash.goog
+193.233.112.68 www.antigravity-unleash.goog
+193.233.112.68 antigravity.googleapis.com
+193.233.112.88 antigravity.googleapis.com
+193.233.112.67 antigravity.googleapis.com
+159.194.200.33 antigravity.googleapis.com
 193.233.112.67 antigravity.google
 159.194.200.33 antigravity.google
 193.233.112.68 antigravity.google
@@ -2966,6 +2987,56 @@
 193.233.112.67 www.qwant.com
 159.194.200.33 www.qwant.com
 
+# Slack
+193.233.112.68 slack.com
+193.233.112.88 slack.com
+193.233.112.67 slack.com
+159.194.200.33 slack.com
+159.194.200.33 www.slack.com
+193.233.112.67 www.slack.com
+193.233.112.88 www.slack.com
+193.233.112.68 www.slack.com
+193.233.112.68 slackb.com
+193.233.112.88 slackb.com
+193.233.112.67 slackb.com
+159.194.200.33 slackb.com
+193.233.112.88 www.slackb.com
+193.233.112.68 www.slackb.com
+159.194.200.33 www.slackb.com
+193.233.112.67 www.slackb.com
+193.233.112.67 slack-core.com
+159.194.200.33 slack-core.com
+193.233.112.68 slack-core.com
+193.233.112.88 slack-core.com
+159.194.200.33 www.slack-core.com
+193.233.112.67 www.slack-core.com
+193.233.112.88 www.slack-core.com
+193.233.112.68 www.slack-core.com
+193.233.112.68 slack-edge.com
+193.233.112.88 slack-edge.com
+193.233.112.67 slack-edge.com
+159.194.200.33 slack-edge.com
+193.233.112.88 www.slack-edge.com
+193.233.112.68 www.slack-edge.com
+159.194.200.33 www.slack-edge.com
+193.233.112.67 www.slack-edge.com
+193.233.112.67 slack-files.com
+159.194.200.33 slack-files.com
+193.233.112.68 slack-files.com
+193.233.112.88 slack-files.com
+193.233.112.88 www.slack-files.com
+193.233.112.68 www.slack-files.com
+159.194.200.33 www.slack-files.com
+193.233.112.67 www.slack-files.com
+159.194.200.33 slack-imgs.com
+193.233.112.67 slack-imgs.com
+193.233.112.88 slack-imgs.com
+193.233.112.68 slack-imgs.com
+193.233.112.67 www.slack-imgs.com
+159.194.200.33 www.slack-imgs.com
+193.233.112.68 www.slack-imgs.com
+193.233.112.88 www.slack-imgs.com
+
 # Scribd
 193.233.112.88 scribd.com
 193.233.112.68 scribd.com
@@ -4036,22 +4107,6 @@
 159.194.200.33 www.singlekey-id.com
 193.233.112.68 www.singlekey-id.com
 193.233.112.88 www.singlekey-id.com
-193.233.112.68 slack.com
-193.233.112.88 slack.com
-193.233.112.67 slack.com
-159.194.200.33 slack.com
-159.194.200.33 www.slack.com
-193.233.112.67 www.slack.com
-193.233.112.88 www.slack.com
-193.233.112.68 www.slack.com
-193.233.112.68 slackb.com
-193.233.112.88 slackb.com
-193.233.112.67 slackb.com
-159.194.200.33 slackb.com
-193.233.112.88 www.slackb.com
-193.233.112.68 www.slackb.com
-159.194.200.33 www.slackb.com
-193.233.112.67 www.slackb.com
 193.233.112.68 squareup.com
 193.233.112.88 squareup.com
 193.233.112.67 squareup.com
@@ -4276,4 +4331,12 @@
 193.233.112.88 www.audacy.com
 193.233.112.67 www.audacy.com
 159.194.200.33 www.audacy.com
+193.233.112.88 miro.com
+193.233.112.68 miro.com
+159.194.200.33 miro.com
+193.233.112.67 miro.com
+193.233.112.68 www.miro.com
+193.233.112.88 www.miro.com
+193.233.112.67 www.miro.com
+159.194.200.33 www.miro.com
 ### geohide.ru: end hosts file
